@@ -7,6 +7,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-24,Añasco,3,0.3
 2020-04-24,Arecibo,14,1.6
 2020-04-24,Arroyo,1,0.1
+2020-04-24,Barceloneta,0,0
 2020-04-24,Barranquitas,2,0.2
 2020-04-24,Bayamón,42,4.8
 2020-04-24,Cabo Rojo,15,1.7
@@ -16,12 +17,16 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-24,Carolina,54,6.2
 2020-04-24,Cataño,6,0.7
 2020-04-24,Cayey,5,0.6
-2020-04-24,Ceiba,6,0.7
+2020-04-24,Ceiba,6,0.7,
+2020-04-24,Ciales,0,0
 2020-04-24,Cidra,9,1
 2020-04-24,Coamo,2,0.2
 2020-04-24,Comerío,2,0.2
 2020-04-24,Corozal,3,0.3
+2020-04-24,Culebra,0,0
 2020-04-24,Dorado,11,1.3
+2020-04-24,Fajardo,0,0
+2020-04-24,Florida,0,0
 2020-04-24,Guánica,8,0.9
 2020-04-24,Guayama,3,0.3
 2020-04-24,Guayanilla,3,0.3
@@ -41,11 +46,13 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-24,Loíza,1,0.1
 2020-04-24,Luquillo,5,0.6
 2020-04-24,Manatí,1,0.1
+2020-04-24,Maricao,0,0
 2020-04-24,Maunabo,3,0.3
 2020-04-24,Mayagüez,31,3.5
 2020-04-24,Moca,12,1.4
 2020-04-24,Morovis,1,0.1
 2020-04-24,Naguabo,1,0.1
+2020-04-24,Naranjito,0,0
 2020-04-24,Orocovis,2,0.2
 2020-04-24,Patillas,3,0.3
 2020-04-24,Peñuelas,2,0.2
@@ -63,13 +70,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-24,Toa Alta,19,2.2
 2020-04-24,Toa Baja,18,2.1
 2020-04-24,Trujillo Alto,22,2.5
+2020-04-24,Utuado,0,0
 2020-04-24,Vega Alta,10,1.1
 2020-04-24,Vega Baja,7,0.8
+2020-04-24,Vieques,0,0
 2020-04-24,Villalba,5,0.6
 2020-04-24,Yabucoa,3,0.3
 2020-04-24,Yauco,14,1.6
-2020-04-24,Nueva York,4,NA
-2020-04-24,Nueva Jersey,1,NA
+2020-04-24,Otro lugar fuera de PR,5,NA
 2020-04-24,No disponible,86,NA
 2020-04-24,Total,878,NA
 2020-04-25,Adjuntas,3,0.4
@@ -80,6 +88,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-25,Añasco,3,0.4
 2020-04-25,Arecibo,14,1.7
 2020-04-25,Arroyo,1,0.1
+2020-04-25,Barceloneta,0,0
 2020-04-25,Barranquitas,2,0.2
 2020-04-25,Bayamón,43,5.4
 2020-04-25,Cabo Rojo,15,1.9
@@ -90,11 +99,15 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-25,Cataño,6,0.7
 2020-04-25,Cayey,5,0.6
 2020-04-25,Ceiba,6,0.7
+2020-04-25,Ciales,0,0
 2020-04-25,Cidra,9,1.1
 2020-04-25,Coamo,2,0.2
 2020-04-25,Comerío,2,0.2
 2020-04-25,Corozal,3,0.4
+2020-04-25,Culebra,0,0
 2020-04-25,Dorado,11,1.4
+2020-04-25,Fajardo,0,0
+2020-04-25,Florida,0,0
 2020-04-25,Guánica,10,1.2
 2020-04-25,Guayama,3,0.4
 2020-04-25,Guayanilla,3,0.4
@@ -114,11 +127,13 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-25,Loíza,1,0.1
 2020-04-25,Luquillo,5,0.6
 2020-04-25,Manatí,1,0.1
+2020-04-25,Maricao,0,0
 2020-04-25,Maunabo,3,0.4
 2020-04-25,Mayagüez,31,3.9
 2020-04-25,Moca,12,1.5
 2020-04-25,Morovis,1,0.1
 2020-04-25,Naguabo,1,0.1
+2020-04-25,Naranjito,0,0
 2020-04-25,Orocovis,2,0.2
 2020-04-25,Patillas,3,0.4
 2020-04-25,Peñuelas,2,0.2
@@ -136,13 +151,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-25,Toa Alta,19,2.4
 2020-04-25,Toa Baja,18,2.2
 2020-04-25,Trujillo Alto,22,2.7
+2020-04-25,Utuado,0,0
 2020-04-25,Vega Alta,11,1.4
 2020-04-25,Vega Baja,7,0.9
+2020-04-25,Vieques,0,0
 2020-04-25,Villalba,5,0.6
 2020-04-25,Yabucoa,3,0.4
 2020-04-25,Yauco,15,1.9
-2020-04-25,Nueva York,4,NA
-2020-04-25,Nueva Jersey,1,NA
+2020-04-25,Otro lugar fuera de PR,5,NA
 2020-04-25,No disponible,84,NA
 2020-04-25,Total,891,NA
 2020-04-26,Adjuntas,3,0.4
@@ -153,6 +169,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-26,Añasco,3,0.4
 2020-04-26,Arecibo,14,1.7
 2020-04-26,Arroyo,1,0.1
+2020-04-26,Barceloneta,0,0
 2020-04-26,Barranquitas,2,0.2
 2020-04-26,Bayamón,42,5.2
 2020-04-26,Cabo Rojo,15,1.9
@@ -163,11 +180,15 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-26,Cataño,6,0.7
 2020-04-26,Cayey,5,0.6
 2020-04-26,Ceiba,6,0.7
+2020-04-26,Ciales,0,0
 2020-04-26,Cidra,9,1.1
 2020-04-26,Coamo,2,0.2
 2020-04-26,Comerío,2,0.2
 2020-04-26,Corozal,3,0.4
+2020-04-26,Culebra,0,0
 2020-04-26,Dorado,12,1.5
+2020-04-25,Fajardo,0,0
+2020-04-25,Florida,0,0
 2020-04-26,Guánica,10,1.2
 2020-04-26,Guayama,3,0.4
 2020-04-26,Guayanilla,3,0.4
@@ -187,11 +208,13 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-26,Loíza,1,0.1
 2020-04-26,Luquillo,5,0.6
 2020-04-26,Manatí,1,0.1
+2020-04-26,Maricao,0,0
 2020-04-26,Maunabo,3,0.4
 2020-04-26,Mayagüez,31,3.8
 2020-04-26,Moca,12,1.5
 2020-04-26,Morovis,1,0.1
 2020-04-26,Naguabo,1,0.1
+2020-04-26,Naranjito,0,0
 2020-04-26,Orocovis,2,0.2
 2020-04-26,Patillas,3,0.4
 2020-04-26,Peñuelas,2,0.2
@@ -209,14 +232,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-26,Toa Alta,19,2.4
 2020-04-26,Toa Baja,17,2.1
 2020-04-26,Trujillo Alto,22,2.7
+2020-04-26,Utuado,0,0
 2020-04-26,Vega Alta,12,1.5
 2020-04-26,Vega Baja,7,0.9
+2020-04-26,Vieques,0,0
 2020-04-26,Villalba,5,0.6
 2020-04-26,Yabucoa,3,0.4
 2020-04-26,Yauco,15,1.9
-2020-04-26,Nueva York,4,NA
-2020-04-26,Nueva Jersey,1,NA
-2020-04-26,Otro lugar fuera de PR,1,NA
+2020-04-26,Otro lugar fuera de PR,6,NA
 2020-04-26,No disponible,83,NA
 2020-04-26,Total,895,NA
 2020-04-27,Adjuntas,3,0.4
@@ -227,6 +250,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-27,Añasco,3,0.4
 2020-04-27,Arecibo,14,1.7
 2020-04-27,Arroyo,1,0.1
+2020-04-27,Barceloneta,0,0
 2020-04-27,Barranquitas,2,0.2
 2020-04-27,Bayamón,42,5.2
 2020-04-27,Cabo Rojo,15,1.9
@@ -237,11 +261,15 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-27,Cataño,6,0.7
 2020-04-27,Cayey,5,0.6
 2020-04-27,Ceiba,6,0.7
+2020-04-27,Ciales,0,0
 2020-04-27,Cidra,10,1.2
 2020-04-27,Coamo,2,0.2
 2020-04-27,Comerío,2,0.2
 2020-04-27,Corozal,3,0.4
+2020-04-27,Culebra,0,0
 2020-04-27,Dorado,12,1.5
+2020-04-27,Fajardo,0,0
+2020-04-27,Florida,0,0
 2020-04-27,Guánica,11,1.4
 2020-04-27,Guayama,3,0.4
 2020-04-27,Guayanilla,3,0.4
@@ -261,11 +289,13 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-27,Loíza,1,0.1
 2020-04-27,Luquillo,5,0.6
 2020-04-27,Manatí,1,0.1
+2020-04-27,Maricao,0,0
 2020-04-27,Maunabo,3,0.4
 2020-04-27,Mayagüez,31,3.8
 2020-04-27,Moca,12,1.5
 2020-04-27,Morovis,1,0.1
 2020-04-27,Naguabo,1,0.1
+2020-04-27,Naranjito,0,0
 2020-04-27,Orocovis,2,0.2
 2020-04-27,Patillas,3,0.4
 2020-04-27,Peñuelas,2,0.2
@@ -283,14 +313,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-27,Toa Alta,19,2.4
 2020-04-27,Toa Baja,17,2.1
 2020-04-27,Trujillo Alto,22,2.7
+2020-04-27,Utuado,0,0
 2020-04-27,Vega Alta,12,1.5
 2020-04-27,Vega Baja,7,0.9
+2020-04-27,Vieques,0,0
 2020-04-27,Villalba,5,0.6
 2020-04-27,Yabucoa,3,0.4
 2020-04-27,Yauco,15,1.9
-2020-04-27,Nueva York,4,NA
-2020-04-27,Nueva Jersey,1,NA
-2020-04-27,Otro lugar fuera de PR,1,NA
+2020-04-27,Otro lugar fuera de PR,6,NA
 2020-04-27,No disponible,84,NA
 2020-04-27,Total,898,NA
 2020-04-28,Adjuntas,3,0.4
@@ -301,6 +331,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-28,Añasco,3,0.4
 2020-04-28,Arecibo,14,1.7
 2020-04-28,Arroyo,1,0.1
+2020-04-28,Barceloneta,0,0
 2020-04-28,Barranquitas,2,0.2
 2020-04-28,Bayamón,42,5.1
 2020-04-28,Cabo Rojo,15,1.8
@@ -311,12 +342,15 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-28,Cataño,6,0.7
 2020-04-28,Cayey,5,0.6
 2020-04-28,Ceiba,6,0.7
+2020-04-28,Ciales,0,0
 2020-04-28,Cidra,10,1.2
 2020-04-28,Coamo,2,0.2
 2020-04-28,Comerío,2,0.2
 2020-04-28,Corozal,3,0.4
+2020-04-28,Culebra,0,0
 2020-04-28,Dorado,12,1.5
 2020-04-28,Fajardo,1,0.1
+2020-04-28,Florida,0,0
 2020-04-28,Guánica,11,1.3
 2020-04-28,Guayama,3,0.4
 2020-04-28,Guayanilla,3,0.4
@@ -336,11 +370,13 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-28,Loíza,1,0.1
 2020-04-28,Luquillo,5,0.6
 2020-04-28,Manatí,1,0.1
+2020-04-28,Maricao,0,0
 2020-04-28,Maunabo,3,0.4
 2020-04-28,Mayagüez,31,3.8
 2020-04-28,Moca,12,1.5
 2020-04-28,Morovis,1,0.1
 2020-04-28,Naguabo,1,0.1
+2020-04-28,Naranjito,0,0
 2020-04-28,Orocovis,2,0.2
 2020-04-28,Patillas,3,0.4
 2020-04-28,Peñuelas,2,0.2
@@ -358,14 +394,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-28,Toa Alta,19,2.3
 2020-04-28,Toa Baja,17,2.1
 2020-04-28,Trujillo Alto,22,2.7
+2020-04-28,Utuado,0,0
 2020-04-28,Vega Alta,12,1.5
 2020-04-28,Vega Baja,7,0.9
+2020-04-28,Vieques,0,0
 2020-04-28,Villalba,5,0.6
 2020-04-28,Yabucoa,3,0.4
 2020-04-28,Yauco,16,2
-2020-04-28,Nueva York,4,NA
-2020-04-28,Nueva Jersey,1,NA
-2020-04-28,Otro lugar fuera de PR,1,NA
+2020-04-28,Otro lugar fuera de PR,6,NA
 2020-04-28,No disponible,81,NA
 2020-04-28,Total,904,NA
 2020-04-29,Adjuntas,3,0.4
@@ -376,6 +412,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-29,Añasco,3,0.4
 2020-04-29,Arecibo,14,1.7
 2020-04-29,Arroyo,1,0.1
+2020-04-29,Barceloneta,0,0
 2020-04-29,Barranquitas,2,0.2
 2020-04-29,Bayamón,42,5
 2020-04-29,Cabo Rojo,15,1.8
@@ -386,12 +423,15 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-29,Cataño,6,0.7
 2020-04-29,Cayey,5,0.6
 2020-04-29,Ceiba,6,0.7
+2020-04-29,Ciales,0,0
 2020-04-29,Cidra,10,1.2
 2020-04-29,Coamo,2,0.2
 2020-04-29,Comerío,2,0.2
 2020-04-29,Corozal,4,0.5
+2020-04-29,Culebra,0,0
 2020-04-29,Dorado,12,1.4
 2020-04-29,Fajardo,1,0.1
+2020-04-29,Florida,0,0
 2020-04-29,Guánica,13,1.5
 2020-04-29,Guayama,3,0.4
 2020-04-29,Guayanilla,3,0.4
@@ -411,11 +451,13 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-29,Loíza,1,0.1
 2020-04-29,Luquillo,5,0.6
 2020-04-29,Manatí,1,0.1
+2020-04-29,Maricao,0,0
 2020-04-29,Maunabo,3,0.4
 2020-04-29,Mayagüez,32,3.8
 2020-04-29,Moca,12,1.4
 2020-04-29,Morovis,1,0.1
 2020-04-29,Naguabo,1,0.1
+2020-04-29,Naranjito,0,0
 2020-04-29,Orocovis,5,0.6
 2020-04-29,Patillas,3,0.4
 2020-04-29,Peñuelas,2,0.2
@@ -433,14 +475,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-29,Toa Alta,21,2.5
 2020-04-29,Toa Baja,20,2.4
 2020-04-29,Trujillo Alto,23,2.7
+2020-04-29,Utuado,0,0
 2020-04-29,Vega Alta,12,1.4
 2020-04-29,Vega Baja,8,1
+2020-04-29,Vieques,0,0
 2020-04-29,Villalba,5,0.6
 2020-04-29,Yabucoa,3,0.4
 2020-04-29,Yauco,17,2
-2020-04-29,Nueva York,5,NA
-2020-04-29,Nueva Jersey,1,NA
-2020-04-29,Otro lugar fuera de PR,2,NA
+2020-04-29,Otro lugar fuera de PR,8,NA
 2020-04-29,No disponible,108,NA
 2020-04-29,Total,955,NA
 2020-04-30,Adjuntas,3,0.4
@@ -451,6 +493,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-30,Añasco,4,0.5
 2020-04-30,Arecibo,14,1.6
 2020-04-30,Arroyo,1,0.1
+2020-04-30,Barceloneta,0,0
 2020-04-30,Barranquitas,2,0.2
 2020-04-30,Bayamón,45,5.3
 2020-04-30,Cabo Rojo,15,1.8
@@ -461,12 +504,15 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-30,Cataño,6,0.7
 2020-04-30,Cayey,5,0.6
 2020-04-30,Ceiba,6,0.7
+2020-04-30,Ciales,0,0
 2020-04-30,Cidra,10,1.2
 2020-04-30,Coamo,3,0.4
 2020-04-30,Comerío,2,0.2
 2020-04-30,Corozal,4,0.5
+2020-04-30,Culebra,0,0
 2020-04-30,Dorado,12,1.4
 2020-04-30,Fajardo,1,0.1
+2020-04-30,Florida,0,0
 2020-04-30,Guánica,13,1.5
 2020-04-30,Guayama,3,0.4
 2020-04-30,Guayanilla,3,0.4
@@ -486,11 +532,13 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-30,Loíza,1,0.1
 2020-04-30,Luquillo,5,0.6
 2020-04-30,Manatí,3,0.4
+2020-04-30,Maricao,0,0
 2020-04-30,Maunabo,3,0.4
 2020-04-30,Mayagüez,32,3.8
 2020-04-30,Moca,13,1.5
 2020-04-30,Morovis,1,0.1
 2020-04-30,Naguabo,1,0.1
+2020-04-30,Naranjito,0,0
 2020-04-30,Orocovis,5,0.6
 2020-04-30,Patillas,3,0.4
 2020-04-30,Peñuelas,2,0.2
@@ -508,14 +556,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-04-30,Toa Alta,21,2.5
 2020-04-30,Toa Baja,21,2.5
 2020-04-30,Trujillo Alto,23,2.7
+2020-04-30,Utuado,0,0
 2020-04-30,Vega Alta,12,1.4
 2020-04-30,Vega Baja,8,0.9
+2020-04-30,Vieques,0,0
 2020-04-30,Villalba,5,0.6
 2020-04-30,Yabucoa,3,0.4
 2020-04-30,Yauco,17,2
-2020-04-30,Nueva York,5,NA
-2020-04-30,Nueva Jersey,1,NA
-2020-04-30,Otro lugar fuera de PR,2,NA
+2020-04-30,Otro lugar fuera de PR,8,NA
 2020-04-30,No disponible,107,NA
 2020-04-30,Total,964,NA
 2020-05-01,Adjuntas,3,0.3
@@ -526,6 +574,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-01,Añasco,4,0.5
 2020-05-01,Arecibo,14,1.6
 2020-05-01,Arroyo,1,0.1
+2020-05-01,Barceloneta,0,0
 2020-05-01,Barranquitas,2,0.2
 2020-05-01,Bayamón,46,5.3
 2020-05-01,Cabo Rojo,16,1.9
@@ -536,12 +585,15 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-01,Cataño,6,0.7
 2020-05-01,Cayey,5,0.6
 2020-05-01,Ceiba,6,0.7
+2020-05-01,Ciales,0,0
 2020-05-01,Cidra,10,1.2
 2020-05-01,Coamo,3,0.3
 2020-05-01,Comerío,2,0.2
 2020-05-01,Corozal,4,0.5
+2020-05-01,Culebra,0,0
 2020-05-01,Dorado,12,1.4
 2020-05-01,Fajardo,1,0.1
+2020-04-01,Florida,0,0
 2020-05-01,Guánica,13,1.5
 2020-05-01,Guayama,3,0.3
 2020-05-01,Guayanilla,3,0.3
@@ -561,11 +613,13 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-01,Loíza,1,0.1
 2020-05-01,Luquillo,5,0.6
 2020-05-01,Manatí,3,0.3
+2020-05-01,Maricao,0,0
 2020-05-01,Maunabo,3,0.3
 2020-05-01,Mayagüez,31,3.6
 2020-05-01,Moca,13,1.5
 2020-05-01,Morovis,1,0.1
 2020-05-01,Naguabo,1,0.1
+2020-05-01,Naranjito,0,0
 2020-05-01,Orocovis,5,0.6
 2020-05-01,Patillas,3,0.3
 2020-05-01,Peñuelas,2,0.2
@@ -583,14 +637,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-01,Toa Alta,24,2.8
 2020-05-01,Toa Baja,21,2.4
 2020-05-01,Trujillo Alto,23,2.7
+2020-05-01,Utuado,0,0
 2020-05-01,Vega Alta,12,1.4
 2020-05-01,Vega Baja,8,0.9
+2020-05-01,Vieques,0,0
 2020-05-01,Villalba,5,0.6
 2020-05-01,Yabucoa,3,0.3
 2020-05-01,Yauco,17,2
-2020-05-01,Nueva York,5,NA
-2020-05-01,Nueva Jersey,1,NA
-2020-05-01,Otro lugar fuera de PR,2,NA
+2020-05-01,Otro lugar fuera de PR,8,NA
 2020-05-01,No disponible,105,NA
 2020-05-01,Total,973,NA
 2020-05-02,Adjuntas,3,0.3
@@ -601,6 +655,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-02,Añasco,4,0.5
 2020-05-02,Arecibo,15,1.7
 2020-05-02,Arroyo,1,0.1
+2020-05-02,Barceloneta,0,0
 2020-05-02,Barranquitas,2,0.2
 2020-05-02,Bayamón,50,5.7
 2020-05-02,Cabo Rojo,16,1.8
@@ -611,10 +666,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-02,Cataño,6,0.7
 2020-05-02,Cayey,5,0.6
 2020-05-02,Ceiba,6,0.7
+2020-05-02,Ciales,0,0
 2020-05-02,Cidra,11,1.3
 2020-05-02,Coamo,3,0.3
 2020-05-02,Comerío,2,0.2
 2020-05-02,Corozal,4,0.5
+2020-05-02,Culebra,0,0
 2020-05-02,Dorado,13,1.5
 2020-05-02,Fajardo,1,0.1
 2020-05-02,Florida,1,0.1
@@ -637,11 +694,13 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-02,Loíza,1,0.1
 2020-05-02,Luquillo,5,0.6
 2020-05-02,Manatí,3,0.3
+2020-05-02,Maricao,0,0
 2020-05-02,Maunabo,3,0.3
 2020-05-02,Mayagüez,31,3.5
 2020-05-02,Moca,13,1.5
 2020-05-02,Morovis,1,0.1
 2020-05-02,Naguabo,1,0.1
+2020-05-02,Naranjito,0,0
 2020-05-02,Orocovis,6,0.7
 2020-05-02,Patillas,3,0.3
 2020-05-02,Peñuelas,2,0.2
@@ -659,14 +718,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-02,Toa Alta,25,2.8
 2020-05-02,Toa Baja,22,2.5
 2020-05-02,Trujillo Alto,23,2.6
+2020-05-02,Utuado,0,0
 2020-05-02,Vega Alta,12,1.4
 2020-05-02,Vega Baja,8,0.9
+2020-05-02,Vieques,0,0
 2020-05-02,Villalba,5,0.6
 2020-05-02,Yabucoa,3,0.3
 2020-05-02,Yauco,17,1.9
-2020-05-02,Nueva York,5,NA
-2020-05-02,Nueva Jersey,1,NA
-2020-05-02,Otro lugar fuera de PR,2,NA
+2020-05-02,Otro lugar fuera de PR,8,NA
 2020-05-02,No disponible,101,NA
 2020-05-02,Total,988,NA
 2020-05-03,Adjuntas,3,0.3
@@ -677,6 +736,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-03,Añasco,4,0.4
 2020-05-03,Arecibo,15,1.7
 2020-05-03,Arroyo,1,0.1
+2020-05-03,Barceloneta,0,0
 2020-05-03,Barranquitas,2,0.2
 2020-05-03,Bayamón,50,5.6
 2020-05-03,Cabo Rojo,16,1.8
@@ -687,10 +747,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-03,Cataño,6,0.7
 2020-05-03,Cayey,5,0.6
 2020-05-03,Ceiba,6,0.7
+2020-05-03,Ciales,0,0
 2020-05-03,Cidra,11,1.2
 2020-05-03,Coamo,3,0.3
 2020-05-03,Comerío,2,0.2
 2020-05-03,Corozal,4,0.4
+2020-05-03,Culebra,0,0
 2020-05-03,Dorado,13,1.5
 2020-05-03,Fajardo,1,0.1
 2020-05-03,Florida,2,0.2
@@ -713,11 +775,13 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-03,Loíza,1,0.1
 2020-05-03,Luquillo,5,0.6
 2020-05-03,Manatí,3,0.3
+2020-05-03,Maricao,0,0
 2020-05-03,Maunabo,3,0.3
 2020-05-03,Mayagüez,32,3.6
 2020-05-03,Moca,13,1.5
 2020-05-03,Morovis,1,0.1
 2020-05-03,Naguabo,1,0.1
+2020-05-03,Naranjito,0,0
 2020-05-03,Orocovis,6,0.7
 2020-05-03,Patillas,3,0.3
 2020-05-03,Peñuelas,2,0.2
@@ -735,14 +799,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-03,Toa Alta,25,2.8
 2020-05-03,Toa Baja,22,2.5
 2020-05-03,Trujillo Alto,23,2.6
+2020-05-03,Utuado,0,0
 2020-05-03,Vega Alta,12,1.3
 2020-05-03,Vega Baja,8,0.9
+2020-05-03,Vieques,0,0
 2020-05-03,Villalba,5,0.6
 2020-05-03,Yabucoa,3,0.3
 2020-05-03,Yauco,17,1.9
-2020-05-03,Nueva York,5,NA
-2020-05-03,Nueva Jersey,1,NA
-2020-05-03,Otro lugar fuera de PR,2,NA
+2020-05-03,Otro lugar fuera de PR,8,NA
 2020-05-03,No disponible,101,NA
 2020-05-03,Total,1001,NA
 2020-05-04,Adjuntas,3,0.3
@@ -753,6 +817,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-04,Añasco,4,0.4
 2020-05-04,Arecibo,15,1.7
 2020-05-04,Arroyo,1,0.1
+2020-05-04,Barceloneta,0,0
 2020-05-04,Barranquitas,2,0.2
 2020-05-04,Bayamón,50,5.6
 2020-05-04,Cabo Rojo,16,1.8
@@ -763,10 +828,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-04,Cataño,6,0.7
 2020-05-04,Cayey,5,0.6
 2020-05-04,Ceiba,6,0.7
+2020-05-04,Ciales,0,0
 2020-05-04,Cidra,11,1.2
 2020-05-04,Coamo,3,0.3
 2020-05-04,Comerío,2,0.2
 2020-05-04,Corozal,4,0.4
+2020-05-04,Culebra,0,0
 2020-05-04,Dorado,13,1.5
 2020-05-04,Fajardo,1,0.1
 2020-05-04,Florida,2,0.2
@@ -789,11 +856,13 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-04,Loíza,1,0.1
 2020-05-04,Luquillo,5,0.6
 2020-05-04,Manatí,3,0.3
+2020-05-04,Maricao,0,0
 2020-05-04,Maunabo,3,0.3
 2020-05-04,Mayagüez,32,3.6
 2020-05-04,Moca,13,1.5
 2020-05-04,Morovis,1,0.1
 2020-05-04,Naguabo,1,0.1
+2020-05-04,Naranjito,0,0
 2020-05-04,Orocovis,6,0.7
 2020-05-04,Patillas,3,0.3
 2020-05-04,Peñuelas,2,0.2
@@ -811,14 +880,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-04,Toa Alta,25,2.8
 2020-05-04,Toa Baja,22,2.5
 2020-05-04,Trujillo Alto,23,2.6
+2020-05-04,Utuado,0,0
 2020-05-04,Vega Alta,12,1.3
 2020-05-04,Vega Baja,8,0.9
+2020-05-04,Vieques,0,0
 2020-05-04,Villalba,5,0.6
 2020-05-04,Yabucoa,3,0.3
 2020-05-04,Yauco,17,1.9
-2020-05-04,Nueva York,5,NA
-2020-05-04,Nueva Jersey,1,NA
-2020-05-04,Otro lugar fuera de PR,2,NA
+2020-05-04,Otro lugar fuera de PR,8,NA
 2020-05-04,No disponible,101,NA
 2020-05-04,Total,1005,NA
 2020-05-05,Adjuntas,3,0.3
@@ -829,6 +898,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-05,Añasco,4,0.4
 2020-05-05,Arecibo,15,1.7
 2020-05-05,Arroyo,1,0.1
+2020-05-05,Barceloneta,0,0
 2020-05-05,Barranquitas,2,0.2
 2020-05-05,Bayamón,50,5.6
 2020-05-05,Cabo Rojo,16,1.8
@@ -839,10 +909,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-05,Cataño,6,0.7
 2020-05-05,Cayey,5,0.6
 2020-05-05,Ceiba,6,0.7
+2020-05-05,Ciales,0,0
 2020-05-05,Cidra,11,1.2
 2020-05-05,Coamo,3,0.3
 2020-05-05,Comerío,2,0.2
 2020-05-05,Corozal,4,0.4
+2020-05-05,Culebra,0,0
 2020-05-05,Dorado,13,1.5
 2020-05-05,Fajardo,1,0.1
 2020-05-05,Florida,1,0.1
@@ -865,11 +937,13 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-05,Loíza,1,0.1
 2020-05-05,Luquillo,5,0.6
 2020-05-05,Manatí,3,0.3
+2020-05-05,Maricao,0,0
 2020-05-05,Maunabo,3,0.3
 2020-05-05,Mayagüez,32,3.6
 2020-05-05,Moca,13,1.5
 2020-05-05,Morovis,1,0.1
 2020-05-05,Naguabo,1,0.1
+2020-05-05,Naranjito,0,0
 2020-05-05,Orocovis,6,0.7
 2020-05-05,Patillas,3,0.3
 2020-05-05,Peñuelas,2,0.2
@@ -887,15 +961,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-05,Toa Alta,25,2.8
 2020-05-05,Toa Baja,22,2.5
 2020-05-05,Trujillo Alto,23,2.6
+2020-05-05,Utuado,0,0
 2020-05-05,Vega Alta,12,1.3
 2020-05-05,Vega Baja,8,0.9
+2020-05-05,Vieques,0,0
 2020-05-05,Villalba,5,0.6
 2020-05-05,Yabucoa,3,0.3
 2020-05-05,Yauco,17,1.9
-2020-05-05,Nueva York,5,NA
-2020-05-05,Nueva Jersey,1,NA
-2020-05-05,Florida (estado),1,NA
-2020-05-05,Otro lugar fuera de PR,2,NA
+2020-05-05,Otro lugar fuera de PR,9,NA
 2020-05-05,No disponible,101,NA
 2020-05-05,Total,1006,NA
 2020-05-06,Adjuntas,3,0.3
@@ -906,6 +979,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-06,Añasco,4,0.4
 2020-05-06,Arecibo,15,1.7
 2020-05-06,Arroyo,1,0.1
+2020-05-06,Barceloneta,0,0
 2020-05-06,Barranquitas,3,0.3
 2020-05-06,Bayamón,51,5.6
 2020-05-06,Cabo Rojo,16,1.8
@@ -916,10 +990,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-06,Cataño,6,0.7
 2020-05-06,Cayey,5,0.6
 2020-05-06,Ceiba,6,0.7
+2020-05-06,Ciales,0,0
 2020-05-06,Cidra,11,1.2
 2020-05-06,Coamo,3,0.3
 2020-05-06,Comerío,2,0.2
 2020-05-06,Corozal,4,0.4
+2020-05-06,Culebra,0,0
 2020-05-06,Dorado,13,1.4
 2020-05-06,Fajardo,1,0.1
 2020-05-06,Florida,1,0.1
@@ -942,11 +1018,13 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-06,Loíza,1,0.1
 2020-05-06,Luquillo,5,0.6
 2020-05-06,Manatí,3,0.3
+2020-05-06,Maricao,0,0
 2020-05-06,Maunabo,3,0.3
 2020-05-06,Mayagüez,32,3.5
 2020-05-06,Moca,13,1.4
 2020-05-06,Morovis,1,0.1
 2020-05-06,Naguabo,1,0.1
+2020-05-06,Naranjito,0,0
 2020-05-06,Orocovis,6,0.7
 2020-05-06,Patillas,3,0.3
 2020-05-06,Peñuelas,2,0.2
@@ -964,15 +1042,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-06,Toa Alta,26,2.9
 2020-05-06,Toa Baja,22,2.4
 2020-05-06,Trujillo Alto,23,2.5
+2020-05-06,Utuado,0,0
 2020-05-06,Vega Alta,12,1.3
 2020-05-06,Vega Baja,8,0.9
+2020-05-06,Vieques,0,0
 2020-05-06,Villalba,5,0.6
 2020-05-06,Yabucoa,3,0.3
 2020-05-06,Yauco,17,1.9
-2020-05-06,Nueva York,5,NA
-2020-05-06,Nueva Jersey,1,NA
-2020-05-06,Florida (estado),1,NA
-2020-05-06,Otro lugar fuera de PR,2,NA
+2020-05-06,Otro lugar fuera de PR,9,NA
 2020-05-06,No disponible,101,NA
 2020-05-06,Total,1013,NA
 2020-05-07,Adjuntas,3,0.3
@@ -983,6 +1060,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-07,Añasco,4,0.4
 2020-05-07,Arecibo,15,1.6
 2020-05-07,Arroyo,1,0.1
+2020-05-07,Barceloneta,0,0
 2020-05-07,Barranquitas,4,0.4
 2020-05-07,Bayamón,51,5.6
 2020-05-07,Cabo Rojo,16,1.7
@@ -993,10 +1071,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-07,Cataño,6,0.7
 2020-05-07,Cayey,5,0.5
 2020-05-07,Ceiba,6,0.7
+2020-05-07,Ciales,0,0
 2020-05-07,Cidra,11,1.2
 2020-05-07,Coamo,3,0.3
 2020-05-07,Comerío,2,0.2
 2020-05-07,Corozal,4,0.4
+2020-05-07,Culebra,0,0
 2020-05-07,Dorado,13,1.4
 2020-05-07,Fajardo,1,0.1
 2020-05-07,Florida,1,0.1
@@ -1019,11 +1099,13 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-07,Loíza,1,0.1
 2020-05-07,Luquillo,6,0.7
 2020-05-07,Manatí,3,0.3
+2020-05-07,Maricao,0,0
 2020-05-07,Maunabo,3,0.3
 2020-05-07,Mayagüez,32,3.5
 2020-05-07,Moca,13,1.4
 2020-05-07,Morovis,1,0.1
 2020-05-07,Naguabo,1,0.1
+2020-05-07,Naranjito,0,0
 2020-05-07,Orocovis,6,0.7
 2020-05-07,Patillas,3,0.3
 2020-05-07,Peñuelas,2,0.2
@@ -1041,15 +1123,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-07,Toa Alta,26,2.8
 2020-05-07,Toa Baja,22,2.4
 2020-05-07,Trujillo Alto,23,2.5
+2020-05-07,Utuado,0,0
 2020-05-07,Vega Alta,12,1.3
 2020-05-07,Vega Baja,8,0.9
+2020-05-07,Vieques,0,0
 2020-05-07,Villalba,5,0.5
 2020-05-07,Yabucoa,3,0.3
 2020-05-07,Yauco,17,1.9
-2020-05-07,Nueva York,5,NA
-2020-05-07,Nueva Jersey,1,NA
-2020-05-07,Florida (estado),1,NA
-2020-05-07,Otro lugar fuera de PR,2,NA
+2020-05-07,Otro lugar fuera de PR,9,NA
 2020-05-07,No disponible,104,NA
 2020-05-07,Total,1029,NA
 2020-05-08,Adjuntas,3,0.3
@@ -1060,6 +1141,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-08,Añasco,4,0.4
 2020-05-08,Arecibo,15,1.6
 2020-05-08,Arroyo,1,0.1
+2020-05-08,Barceloneta,0,0
 2020-05-08,Barranquitas,5,0.5
 2020-05-08,Bayamón,51,5.5
 2020-05-08,Cabo Rojo,16,1.7
@@ -1070,10 +1152,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-08,Cataño,6,0.7
 2020-05-08,Cayey,5,0.5
 2020-05-08,Ceiba,6,0.7
+2020-05-08,Ciales,0,0
 2020-05-08,Cidra,11,1.2
 2020-05-08,Coamo,3,0.3
 2020-05-08,Comerío,2,0.2
 2020-05-08,Corozal,5,0.5
+2020-05-08,Culebra,0,0
 2020-05-08,Dorado,13,1.4
 2020-05-08,Fajardo,1,0.1
 2020-05-08,Florida,1,0.1
@@ -1096,11 +1180,13 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-08,Loíza,1,0.1
 2020-05-08,Luquillo,6,0.7
 2020-05-08,Manatí,3,0.3
+2020-05-08,Maricao,0,0
 2020-05-08,Maunabo,3,0.3
 2020-05-08,Mayagüez,32,3.5
 2020-05-08,Moca,13,1.4
 2020-05-08,Morovis,1,0.1
 2020-05-08,Naguabo,1,0.1
+2020-05-08,Naranjito,0,0
 2020-05-08,Orocovis,6,0.7
 2020-05-08,Patillas,3,0.3
 2020-05-08,Peñuelas,2,0.2
@@ -1118,15 +1204,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-08,Toa Alta,26,2.8
 2020-05-08,Toa Baja,22,2.4
 2020-05-08,Trujillo Alto,23,2.5
+2020-05-08,Utuado,0,0
 2020-05-08,Vega Alta,12,1.3
 2020-05-08,Vega Baja,8,0.9
+2020-05-08,Vieques,0,0
 2020-05-08,Villalba,5,0.5
 2020-05-08,Yabucoa,3,0.3
 2020-05-08,Yauco,17,1.8
-2020-05-08,Nueva York,5,NA
-2020-05-08,Nueva Jersey,1,NA
-2020-05-08,Florida (estado),1,NA
-2020-05-08,Otro lugar fuera de PR,2,NA
+2020-05-08,Otro lugar fuera de PR,9,NA
 2020-05-08,No disponible,103,NA
 2020-05-08,Total,1034,NA
 2020-05-09,Adjuntas,3,0.3
@@ -1137,6 +1222,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-09,Añasco,5,0.5
 2020-05-09,Arecibo,15,1.6
 2020-05-09,Arroyo,1,0.1
+2020-05-09,Barceloneta,0,0
 2020-05-09,Barranquitas,5,0.5
 2020-05-09,Bayamón,52,5.6
 2020-05-09,Cabo Rojo,16,1.7
@@ -1147,10 +1233,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-09,Cataño,6,0.6
 2020-05-09,Cayey,5,0.5
 2020-05-09,Ceiba,6,0.6
+2020-05-09,Ciales,0,0
 2020-05-09,Cidra,11,1.2
 2020-05-09,Coamo,3,0.3
 2020-05-09,Comerío,2,0.2
 2020-05-09,Corozal,5,0.5
+2020-05-09,Culebra,0,0
 2020-05-09,Dorado,13,1.4
 2020-05-09,Fajardo,1,0.1
 2020-05-09,Florida,1,0.1
@@ -1173,11 +1261,13 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-09,Loíza,2,0.2
 2020-05-09,Luquillo,6,0.6
 2020-05-09,Manatí,3,0.3
+2020-05-09,Maricao,0,0
 2020-05-09,Maunabo,3,0.3
 2020-05-09,Mayagüez,32,3.4
 2020-05-09,Moca,13,1.4
 2020-05-09,Morovis,1,0.1
 2020-05-09,Naguabo,1,0.1
+2020-05-09,Naranjito,0,0
 2020-05-09,Orocovis,6,0.6
 2020-05-09,Patillas,3,0.3
 2020-05-09,Peñuelas,2,0.2
@@ -1195,15 +1285,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-09,Toa Alta,26,2.8
 2020-05-09,Toa Baja,22,2.4
 2020-05-09,Trujillo Alto,23,2.5
+2020-05-09,Utuado,0,0
 2020-05-09,Vega Alta,12,1.3
 2020-05-09,Vega Baja,8,0.9
+2020-05-09,Vieques,0,0
 2020-05-09,Villalba,8,0.9
 2020-05-09,Yabucoa,3,0.3
 2020-05-09,Yauco,17,1.8
-2020-05-09,Nueva York,5,NA
-2020-05-09,Nueva Jersey,1,NA
-2020-05-09,Florida (estado),1,NA
-2020-05-09,Otro lugar fuera de PR,2,NA
+2020-05-09,Otro lugar fuera de PR,9,NA
 2020-05-09,No disponible,96,NA
 2020-05-09,Total,1040,NA
 2020-05-10,Adjuntas,3,0.3
@@ -1214,6 +1303,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-10,Añasco,6,0.6
 2020-05-10,Arecibo,15,1.6
 2020-05-10,Arroyo,1,0.1
+2020-05-10,Barceloneta,0,0
 2020-05-10,Barranquitas,5,0.5
 2020-05-10,Bayamón,55,5.8
 2020-05-10,Cabo Rojo,16,1.7
@@ -1224,10 +1314,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-10,Cataño,6,0.6
 2020-05-10,Cayey,5,0.5
 2020-05-10,Ceiba,6,0.6
+2020-05-10,Ciales,0,0
 2020-05-10,Cidra,11,1.2
 2020-05-10,Coamo,3,0.3
 2020-05-10,Comerío,2,0.2
 2020-05-10,Corozal,5,0.5
+2020-05-10,Culebra,0,0
 2020-05-10,Dorado,13,1.4
 2020-05-10,Fajardo,1,0.1
 2020-05-10,Florida,1,0.1
@@ -1250,11 +1342,13 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-10,Loíza,2,0.2
 2020-05-10,Luquillo,7,0.7
 2020-05-10,Manatí,3,0.3
+2020-05-10,Maricao,0,0
 2020-05-10,Maunabo,3,0.3
 2020-05-10,Mayagüez,32,3.4
 2020-05-10,Moca,14,1.5
 2020-05-10,Morovis,1,0.1
 2020-05-10,Naguabo,1,0.1
+2020-05-10,Naranjito,0,0
 2020-05-10,Orocovis,6,0.6
 2020-05-10,Patillas,3,0.3
 2020-05-10,Peñuelas,2,0.2
@@ -1272,15 +1366,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-10,Toa Alta,26,2.7
 2020-05-10,Toa Baja,24,2.5
 2020-05-10,Trujillo Alto,23,2.4
+2020-05-10,Utuado,0,0
 2020-05-10,Vega Alta,12,1.3
 2020-05-10,Vega Baja,8,0.8
+2020-05-10,Vieques,0,0
 2020-05-10,Villalba,9,0.9
 2020-05-10,Yabucoa,3,0.3
 2020-05-10,Yauco,17,1.8
-2020-05-10,Nueva York,5,NA
-2020-05-10,Nueva Jersey,1,NA
-2020-05-10,Florida (estado),1,NA
-2020-05-10,Otro lugar fuera de PR,2,NA
+2020-05-10,Otro lugar fuera de PR,9,NA
 2020-05-10,No disponible,96,NA
 2020-05-10,Total,1054,NA
 2020-05-11,Adjuntas,3,0.3
@@ -1291,6 +1384,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-11,Añasco,6,0.6
 2020-05-11,Arecibo,15,1.6
 2020-05-11,Arroyo,1,0.1
+2020-05-11,Barceloneta,0,0
 2020-05-11,Barranquitas,6,0.6
 2020-05-11,Bayamón,55,5.8
 2020-05-11,Cabo Rojo,16,1.7
@@ -1301,10 +1395,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-11,Cataño,6,0.6
 2020-05-11,Cayey,5,0.5
 2020-05-11,Ceiba,6,0.6
+2020-05-11,Ciales,0,0
 2020-05-11,Cidra,11,1.2
 2020-05-11,Coamo,3,0.3
 2020-05-11,Comerío,2,0.2
 2020-05-11,Corozal,5,0.5
+2020-05-11,Culebra,0,0
 2020-05-11,Dorado,13,1.4
 2020-05-11,Fajardo,1,0.1
 2020-05-11,Florida,1,0.1
@@ -1327,11 +1423,13 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-11,Loíza,2,0.2
 2020-05-11,Luquillo,7,0.7
 2020-05-11,Manatí,3,0.3
+2020-05-11,Maricao,0,0
 2020-05-11,Maunabo,3,0.3
 2020-05-11,Mayagüez,32,3.3
 2020-05-11,Moca,14,1.5
 2020-05-11,Morovis,1,0.1
 2020-05-11,Naguabo,1,0.1
+2020-05-11,Naranjito,0,0
 2020-05-11,Orocovis,6,0.6
 2020-05-11,Patillas,3,0.3
 2020-05-11,Peñuelas,2,0.2
@@ -1349,15 +1447,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-11,Toa Alta,26,2.7
 2020-05-11,Toa Baja,25,2.6
 2020-05-11,Trujillo Alto,23,2.4
+2020-05-11,Utuado,0,0
 2020-05-11,Vega Alta,12,1.3
 2020-05-11,Vega Baja,8,0.8
+2020-05-11,Vieques,0,0
 2020-05-11,Villalba,9,0.9
 2020-05-11,Yabucoa,3,0.3
 2020-05-11,Yauco,17,1.8
-2020-05-11,Nueva York,5,NA
-2020-05-11,Nueva Jersey,1,NA
-2020-05-11,Florida (estado),1,NA
-2020-05-11,Otro lugar fuera de PR,2,NA
+2020-05-11,Otro lugar fuera de PR,9,NA
 2020-05-11,No disponible,97,NA
 2020-05-11,Total,1062,NA
 2020-05-12,Adjuntas,3,0.3
@@ -1368,6 +1465,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-12,Añasco,6,0.6
 2020-05-12,Arecibo,15,1.6
 2020-05-12,Arroyo,1,0.1
+2020-05-12,Barceloneta,0,0
 2020-05-12,Barranquitas,6,0.6
 2020-05-12,Bayamón,55,5.7
 2020-05-12,Cabo Rojo,16,1.7
@@ -1378,10 +1476,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-12,Cataño,6,0.6
 2020-05-12,Cayey,5,0.5
 2020-05-12,Ceiba,6,0.6
+2020-05-12,Ciales,0,0
 2020-05-12,Cidra,11,1.1
 2020-05-12,Coamo,3,0.3
 2020-05-12,Comerío,2,0.2
 2020-05-12,Corozal,5,0.5
+2020-05-12,Culebra,0,0
 2020-05-12,Dorado,13,1.4
 2020-05-12,Fajardo,1,0.1
 2020-05-12,Florida,1,0.1
@@ -1404,11 +1504,13 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-12,Loíza,2,0.2
 2020-05-12,Luquillo,7,0.7
 2020-05-12,Manatí,3,0.3
+2020-05-12,Maricao,0,0
 2020-05-12,Maunabo,3,0.3
 2020-05-12,Mayagüez,32,3.3
 2020-05-12,Moca,14,1.5
 2020-05-12,Morovis,1,0.1
 2020-05-12,Naguabo,1,0.1
+2020-05-11,Naranjito,0,0
 2020-05-12,Orocovis,6,0.6
 2020-05-12,Patillas,3,0.3
 2020-05-12,Peñuelas,2,0.2
@@ -1426,15 +1528,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-12,Toa Alta,26,2.7
 2020-05-12,Toa Baja,25,2.6
 2020-05-12,Trujillo Alto,23,2.4
+2020-05-12,Utuado,0,0
 2020-05-12,Vega Alta,12,1.3
 2020-05-12,Vega Baja,8,0.8
+2020-05-12,Vieques,0,0
 2020-05-12,Villalba,9,0.9
 2020-05-12,Yabucoa,3,0.3
 2020-05-12,Yauco,17,1.8
-2020-05-12,Nueva York,5,NA
-2020-05-12,Nueva Jersey,1,NA
-2020-05-12,Florida (estado),1,NA
-2020-05-12,Otro lugar fuera de PR,2,NA
+2020-05-12,Otro lugar fuera de PR,9,NA
 2020-05-12,No disponible,98,NA
 2020-05-12,Total,1064,NA
 2020-05-13,Adjuntas,3,0.3
@@ -1445,6 +1546,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-13,Añasco,6,0.6
 2020-05-13,Arecibo,15,1.6
 2020-05-13,Arroyo,1,0.1
+2020-05-13,Barceloneta,0,0
 2020-05-13,Barranquitas,7,0.7
 2020-05-13,Bayamón,59,6.1
 2020-05-13,Cabo Rojo,16,1.7
@@ -1455,10 +1557,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-13,Cataño,6,0.6
 2020-05-13,Cayey,6,0.6
 2020-05-13,Ceiba,6,0.6
+2020-05-13,Ciales,0,0
 2020-05-13,Cidra,11,1.1
 2020-05-13,Coamo,3,0.3
 2020-05-13,Comerío,2,0.2
 2020-05-13,Corozal,6,0.6
+2020-05-13,Culebra,0,0
 2020-05-13,Dorado,13,1.3
 2020-05-13,Fajardo,1,0.1
 2020-05-13,Florida,1,0.1
@@ -1481,11 +1585,13 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-13,Loíza,1,0.1
 2020-05-13,Luquillo,7,0.7
 2020-05-13,Manatí,3,0.3
+2020-05-13,Maricao,0,0
 2020-05-13,Maunabo,3,0.3
 2020-05-13,Mayagüez,32,3.3
 2020-05-13,Moca,14,1.4
 2020-05-13,Morovis,1,0.1
 2020-05-13,Naguabo,1,0.1
+2020-05-13,Naranjito,0,0
 2020-05-13,Orocovis,6,0.6
 2020-05-13,Patillas,3,0.3
 2020-05-13,Peñuelas,2,0.2
@@ -1503,15 +1609,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-13,Toa Alta,26,2.7
 2020-05-13,Toa Baja,25,2.6
 2020-05-13,Trujillo Alto,23,2.4
+2020-05-13,Utuado,0,0
 2020-05-13,Vega Alta,12,1.2
 2020-05-13,Vega Baja,8,0.8
+2020-05-13,Vieques,0,0
 2020-05-13,Villalba,9,0.9
 2020-05-13,Yabucoa,3,0.3
 2020-05-13,Yauco,17,1.8
-2020-05-13,Nueva York,5,NA
-2020-05-13,Nueva Jersey,1,NA
-2020-05-13,Florida (estado),1,NA
-2020-05-13,Otro lugar fuera de PR,2,NA
+2020-05-13,Otro lugar fuera de PR,9,NA
 2020-05-13,No disponible,97,NA
 2020-05-13,Total,1073,NA
 2020-05-14,Adjuntas,3,0.3
@@ -1522,6 +1627,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-14,Añasco,6,0.6
 2020-05-14,Arecibo,15,1.5
 2020-05-14,Arroyo,1,0.1
+2020-05-14,Barceloneta,0,0
 2020-05-14,Barranquitas,7,0.7
 2020-05-14,Bayamón,60,6.1
 2020-05-14,Cabo Rojo,16,1.6
@@ -1532,10 +1638,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-14,Cataño,6,0.6
 2020-05-14,Cayey,7,0.7
 2020-05-14,Ceiba,6,0.6
+2020-05-14,Ciales,0,0
 2020-05-14,Cidra,11,1.1
 2020-05-14,Coamo,3,0.3
 2020-05-14,Comerío,2,0.2
 2020-05-14,Corozal,6,0.6
+2020-05-14,Culebra,0,0
 2020-05-14,Dorado,13,1.3
 2020-05-14,Fajardo,1,0.1
 2020-05-14,Florida,1,0.1
@@ -1558,6 +1666,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-14,Loíza,1,0.1
 2020-05-14,Luquillo,7,0.7
 2020-05-14,Manatí,3,0.3
+2020-05-14,Maricao,0,0
 2020-05-14,Maunabo,3,0.3
 2020-05-14,Mayagüez,32,3.3
 2020-05-14,Moca,14,1.4
@@ -1581,15 +1690,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-14,Toa Alta,26,2.7
 2020-05-14,Toa Baja,25,2.6
 2020-05-14,Trujillo Alto,23,2.3
+2020-05-14,Utuado,0,0
 2020-05-14,Vega Alta,12,1.2
 2020-05-14,Vega Baja,8,0.8
+2020-05-14,Vieques,0,0
 2020-05-14,Villalba,9,0.9
 2020-05-14,Yabucoa,3,0.3
 2020-05-14,Yauco,17,1.7
-2020-05-14,Nueva York,5,NA
-2020-05-14,Nueva Jersey,2,NA
-2020-05-14,Florida (estado),1,NA
-2020-05-14,Otro lugar fuera de PR,2,NA
+2020-05-14,Otro lugar fuera de PR,10,NA
 2020-05-14,No disponible,98,NA
 2020-05-14,Total,1088,NA
 2020-05-15,Adjuntas,3,0.3
@@ -1600,6 +1708,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-15,Añasco,6,0.6
 2020-05-15,Arecibo,16,1.6
 2020-05-15,Arroyo,1,0.1
+2020-05-15,Barceloneta,0,0
 2020-05-15,Barranquitas,7,0.7
 2020-05-15,Bayamón,63,6.3
 2020-05-15,Cabo Rojo,16,1.6
@@ -1610,10 +1719,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-15,Cataño,6,0.6
 2020-05-15,Cayey,7,0.7
 2020-05-15,Ceiba,6,0.6
+2020-05-15,Ciales,0,0
 2020-05-15,Cidra,11,1.1
 2020-05-15,Coamo,3,0.3
 2020-05-15,Comerío,3,0.3
 2020-05-15,Corozal,6,0.6
+2020-05-15,Culebra,0,0
 2020-05-15,Dorado,13,1.3
 2020-05-15,Fajardo,2,0.2
 2020-05-15,Florida,1,0.1
@@ -1636,6 +1747,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-15,Loíza,1,0.1
 2020-05-15,Luquillo,7,0.7
 2020-05-15,Manatí,3,0.3
+2020-05-15,Maricao,0,0
 2020-05-15,Maricao,1,0.1
 2020-05-15,Maunabo,3,0.3
 2020-05-15,Mayagüez,32,3.2
@@ -1660,15 +1772,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-15,Toa Alta,26,2.6
 2020-05-15,Toa Baja,25,2.5
 2020-05-15,Trujillo Alto,23,2.3
+2020-05-15,Utuado,0,0
 2020-05-15,Vega Alta,12,1.2
 2020-05-15,Vega Baja,8,0.8
+2020-05-15,Vieques,0,0
 2020-05-15,Villalba,10,1
 2020-05-15,Yabucoa,3,0.3
 2020-05-15,Yauco,17,1.7
-2020-05-15,Nueva York,5,NA
-2020-05-15,Nueva Jersey,2,NA
-2020-05-15,Florida (estado),1,NA
-2020-05-15,Otro lugar fuera de PR,2,NA
+2020-05-15,Otro lugar fuera de PR,10,NA
 2020-05-15,No disponible,97,NA
 2020-05-15,Total,1114,NA
 2020-05-16,Adjuntas,3,0.3
@@ -1679,6 +1790,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-16,Añasco,6,0.6
 2020-05-16,Arecibo,16,1.5
 2020-05-16,Arroyo,1,0.1
+2020-05-16,Barceloneta,0,0
 2020-05-16,Barranquitas,7,0.7
 2020-05-16,Bayamón,65,6.3
 2020-05-16,Cabo Rojo,16,1.5
@@ -1689,10 +1801,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-16,Cataño,6,0.6
 2020-05-16,Cayey,7,0.7
 2020-05-16,Ceiba,6,0.6
+2020-05-16,Ciales,0,0
 2020-05-16,Cidra,12,1.2
 2020-05-16,Coamo,4,0.4
 2020-05-16,Comerío,3,0.3
 2020-05-16,Corozal,6,0.6
+2020-05-16,Culebra,0,0
 2020-05-16,Dorado,13,1.3
 2020-05-16,Fajardo,2,0.2
 2020-05-16,Florida,1,0.1
@@ -1715,6 +1829,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-16,Loíza,2,0.2
 2020-05-16,Luquillo,7,0.7
 2020-05-16,Manatí,3,0.3
+2020-05-16,Maricao,0,0
 2020-05-16,Maricao,1,0.1
 2020-05-16,Maunabo,3,0.3
 2020-05-16,Mayagüez,35,3.4
@@ -1739,15 +1854,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-16,Toa Alta,26,2.5
 2020-05-16,Toa Baja,25,2.4
 2020-05-16,Trujillo Alto,23,2.2
+2020-05-16,Utuado,0,0
 2020-05-16,Vega Alta,12,1.2
 2020-05-16,Vega Baja,8,0.8
+2020-05-16,Vieques,0,0
 2020-05-16,Villalba,12,1.2
 2020-05-16,Yabucoa,3,0.3
 2020-05-16,Yauco,17,1.6
-2020-05-16,Nueva York,5,NA
-2020-05-16,Nueva Jersey,2,NA
-2020-05-16,Florida (estado),1,NA
-2020-05-16,Otro lugar fuera de PR,2,NA
+2020-05-16,Otro lugar fuera de PR,10,NA
 2020-05-16,No disponible,99,NA
 2020-05-16,Total,1147,NA
 2020-05-17,Adjuntas,5,0.5
@@ -1758,6 +1872,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-17,Añasco,5,0.5
 2020-05-17,Arecibo,16,1.5
 2020-05-17,Arroyo,3,0.3
+2020-05-17,Barceloneta,0,0
 2020-05-17,Barranquitas,8,0.7
 2020-05-17,Bayamón,66,6.1
 2020-05-17,Cabo Rojo,17,1.6
@@ -1768,10 +1883,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-17,Cataño,6,0.6
 2020-05-17,Cayey,9,0.8
 2020-05-17,Ceiba,6,0.6
+2020-05-17,Ciales,0,0
 2020-05-17,Cidra,11,1
 2020-05-17,Coamo,4,0.4
 2020-05-17,Comerío,3,0.3
 2020-05-17,Corozal,7,0.6
+2020-05-17,Culebra,0,0
 2020-05-17,Dorado,13,1.2
 2020-05-17,Fajardo,2,0.2
 2020-05-17,Florida,2,0.2
@@ -1794,6 +1911,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-17,Loíza,2,0.2
 2020-05-17,Luquillo,7,0.6
 2020-05-17,Manatí,4,0.4
+2020-05-17,Maricao,0,0
 2020-05-17,Maricao,1,0.1
 2020-05-17,Maunabo,3,0.3
 2020-05-17,Mayagüez,37,3.4
@@ -1818,15 +1936,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-17,Toa Alta,26,2.4
 2020-05-17,Toa Baja,26,2.4
 2020-05-17,Trujillo Alto,23,2.1
+2020-05-17,Utuado,0,0
 2020-05-17,Vega Alta,12,1.1
 2020-05-17,Vega Baja,8,0.7
+2020-05-17,Vieques,0,0
 2020-05-17,Villalba,12,1.1
 2020-05-17,Yabucoa,3,0.3
 2020-05-17,Yauco,17,1.6
-2020-05-17,Nueva York,5,NA
-2020-05-17,Nueva Jersey,2,NA
-2020-05-17,Florida (estado),1,NA
-2020-05-17,Otro lugar fuera de PR,2,NA
+2020-05-17,Otro lugar fuera de PR,10,NA
 2020-05-17,No disponible,107,NA
 2020-05-17,Total,1195,NA
 2020-05-18,Adjuntas,5,0.5
@@ -1837,6 +1954,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-18,Añasco,5,0.5
 2020-05-18,Arecibo,16,1.5
 2020-05-18,Arroyo,3,0.3
+2020-05-18,Barceloneta,0,0
 2020-05-18,Barranquitas,8,0.7
 2020-05-18,Bayamón,67,6.1
 2020-05-18,Cabo Rojo,17,1.6
@@ -1847,10 +1965,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-18,Cataño,6,0.6
 2020-05-18,Cayey,9,0.8
 2020-05-18,Ceiba,6,0.6
+2020-05-18,Ciales,0,0
 2020-05-18,Cidra,11,1
 2020-05-18,Coamo,4,0.4
 2020-05-18,Comerío,3,0.3
 2020-05-18,Corozal,7,0.6
+2020-05-18,Culebra,0,0
 2020-05-18,Dorado,13,1.2
 2020-05-18,Fajardo,2,0.2
 2020-05-18,Florida,2,0.2
@@ -1873,6 +1993,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-18,Loíza,2,0.2
 2020-05-18,Luquillo,8,0.7
 2020-05-18,Manatí,4,0.4
+2020-05-18,Maricao,0,0
 2020-05-18,Maricao,1,0.1
 2020-05-18,Maunabo,3,0.3
 2020-05-18,Mayagüez,37,3.4
@@ -1897,15 +2018,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-18,Toa Alta,26,2.4
 2020-05-18,Toa Baja,26,2.4
 2020-05-18,Trujillo Alto,23,2.1
+2020-05-18,Utuado,0,0
 2020-05-18,Vega Alta,12,1.1
 2020-05-18,Vega Baja,8,0.7
+2020-05-18,Vieques,0,0
 2020-05-18,Villalba,12,1.1
 2020-05-18,Yabucoa,3,0.3
 2020-05-18,Yauco,17,1.6
-2020-05-18,Nueva York,5,NA
-2020-05-18,Nueva Jersey,2,NA
-2020-05-18,Florida (estado),1,NA
-2020-05-18,Otro lugar fuera de PR,2,NA
+2020-05-18,Otro lugar fuera de PR,10,NA
 2020-05-18,No disponible,107,NA
 2020-05-18,Total,1207,NA
 2020-05-19,Adjuntas,5,0.5
@@ -1916,6 +2036,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-19,Añasco,5,0.5
 2020-05-19,Arecibo,16,1.4
 2020-05-19,Arroyo,3,0.3
+2020-05-19,Barceloneta,0,0
 2020-05-19,Barranquitas,8,0.7
 2020-05-19,Bayamón,67,6.1
 2020-05-19,Cabo Rojo,17,1.5
@@ -1926,10 +2047,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-19,Cataño,6,0.5
 2020-05-19,Cayey,9,0.8
 2020-05-19,Ceiba,6,0.5
+2020-05-19,Ciales,0,0
 2020-05-19,Cidra,11,1
 2020-05-19,Coamo,4,0.4
 2020-05-19,Comerío,3,0.3
 2020-05-19,Corozal,7,0.6
+2020-05-19,Culebra,0,0
 2020-05-19,Dorado,13,1.2
 2020-05-19,Fajardo,2,0.2
 2020-05-19,Florida,2,0.2
@@ -1976,15 +2099,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-19,Toa Alta,26,2.4
 2020-05-19,Toa Baja,26,2.4
 2020-05-19,Trujillo Alto,23,2.1
+2020-05-19,Utuado,0,0
 2020-05-19,Vega Alta,12,1.1
 2020-05-19,Vega Baja,8,0.7
+2020-05-19,Vieques,0,0
 2020-05-19,Villalba,12,1.1
 2020-05-19,Yabucoa,3,0.3
 2020-05-19,Yauco,17,1.5
-2020-05-19,Nueva York,5,NA
-2020-05-19,Nueva Jersey,2,NA
-2020-05-19,Florida (estado),1,NA
-2020-05-19,Otro lugar fuera de PR,2,NA
+2020-05-19,Otro lugar fuera de PR,10,NA
 2020-05-19,No disponible,92,NA
 2020-05-19,Total,1206,NA
 2020-05-20,Adjuntas,6,0.5
@@ -1995,6 +2117,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-20,Añasco,6,0.5
 2020-05-20,Arecibo,16,1.4
 2020-05-20,Arroyo,3,0.3
+2020-05-20,Barceloneta,0,0
 2020-05-20,Barranquitas,8,0.7
 2020-05-20,Bayamón,67,6
 2020-05-20,Cabo Rojo,17,1.5
@@ -2005,10 +2128,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-20,Cataño,6,0.5
 2020-05-20,Cayey,10,0.9
 2020-05-20,Ceiba,6,0.5
+2020-05-20,Ciales,0,0
 2020-05-20,Cidra,11,1
 2020-05-20,Coamo,4,0.4
 2020-05-20,Comerío,3,0.3
 2020-05-20,Corozal,7,0.6
+2020-05-20,Culebra,0,0
 2020-05-20,Dorado,13,1.2
 2020-05-20,Fajardo,2,0.2
 2020-05-20,Florida,2,0.2
@@ -2055,15 +2180,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-20,Toa Alta,26,2.3
 2020-05-20,Toa Baja,26,2.3
 2020-05-20,Trujillo Alto,23,2.1
+2020-05-20,Utuado,0,0
 2020-05-20,Vega Alta,12,1.1
 2020-05-20,Vega Baja,8,0.7
+2020-05-20,Vieques,0,0
 2020-05-20,Villalba,12,1.1
 2020-05-20,Yabucoa,3,0.3
 2020-05-20,Yauco,17,1.5
-2020-05-20,Nueva York,5,NA
-2020-05-20,Nueva Jersey,2,NA
-2020-05-20,Florida (estado),1,NA
-2020-05-20,Otro lugar fuera de PR,2,NA
+2020-05-20,Otro lugar fuera de PR,10,NA
 2020-05-20,No disponible,89,NA
 2020-05-20,Total,1213,NA
 2020-05-21,Adjuntas,6,0.5
@@ -2074,6 +2198,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-21,Añasco,6,0.5
 2020-05-21,Arecibo,16,1.4
 2020-05-21,Arroyo,3,0.3
+2020-05-21,Barceloneta,0,0
 2020-05-21,Barranquitas,8,0.7
 2020-05-21,Bayamón,70,6.2
 2020-05-21,Cabo Rojo,17,1.5
@@ -2084,10 +2209,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-21,Cataño,6,0.5
 2020-05-21,Cayey,10,0.9
 2020-05-21,Ceiba,6,0.5
+2020-05-21,Ciales,0,0
 2020-05-21,Cidra,11,1
 2020-05-21,Coamo,4,0.4
 2020-05-21,Comerío,3,0.3
 2020-05-21,Corozal,7,0.6
+2020-05-21,Culebra,0,0
 2020-05-21,Dorado,13,1.2
 2020-05-21,Fajardo,2,0.2
 2020-05-21,Florida,2,0.2
@@ -2134,15 +2261,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-21,Toa Alta,26,2.3
 2020-05-21,Toa Baja,26,2.3
 2020-05-21,Trujillo Alto,24,2.1
+2020-05-21,Utuado,0,0
 2020-05-21,Vega Alta,12,1.1
 2020-05-21,Vega Baja,8,0.7
+2020-05-21,Vieques,0,0
 2020-05-21,Villalba,12,1.1
 2020-05-21,Yabucoa,3,0.3
 2020-05-21,Yauco,17,1.5
-2020-05-21,Nueva York,5,NA
-2020-05-21,Nueva Jersey,2,NA
-2020-05-21,Florida (estado),1,NA
-2020-05-21,Otro lugar fuera de PR,2,NA
+2020-05-21,Otro lugar fuera de PR,10,NA
 2020-05-21,No disponible,88,NA
 2020-05-21,Total,1221,NA
 2020-05-22,Adjuntas,6,0.5
@@ -2153,6 +2279,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-22,Añasco,6,0.5
 2020-05-22,Arecibo,16,1.4
 2020-05-22,Arroyo,4,0.3
+2020-05-22,Barceloneta,0,0
 2020-05-22,Barranquitas,9,0.8
 2020-05-22,Bayamón,73,6.4
 2020-05-22,Cabo Rojo,17,1.5
@@ -2163,10 +2290,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-22,Cataño,6,0.5
 2020-05-22,Cayey,10,0.9
 2020-05-22,Ceiba,6,0.5
+2020-05-22,Ciales,0,0
 2020-05-22,Cidra,11,1
 2020-05-22,Coamo,4,0.3
 2020-05-22,Comerío,3,0.3
 2020-05-22,Corozal,7,0.6
+2020-05-22,Culebra,0,0
 2020-05-22,Dorado,13,1.1
 2020-05-22,Fajardo,2,0.2
 2020-05-22,Florida,2,0.2
@@ -2213,15 +2342,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-22,Toa Alta,26,2.3
 2020-05-22,Toa Baja,26,2.3
 2020-05-22,Trujillo Alto,24,2.1
+2020-05-22,Utuado,0,0
 2020-05-22,Vega Alta,12,1
 2020-05-22,Vega Baja,8,0.7
+2020-05-22,Vieques,0,0
 2020-05-22,Villalba,12,1
 2020-05-22,Yabucoa,3,0.3
 2020-05-22,Yauco,17,1.5
-2020-05-22,Nueva York,6,NA
-2020-05-22,Nueva Jersey,2,NA
-2020-05-22,Florida (estado),1,NA
-2020-05-22,Otro lugar fuera de PR,2,NA
+2020-05-22,Otro lugar fuera de PR,11,NA
 2020-05-22,No disponible,76,NA
 2020-05-22,Total,1230,NA
 2020-05-23,Adjuntas,6,0.5
@@ -2232,6 +2360,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-23,Añasco,6,0.5
 2020-05-23,Arecibo,16,1.4
 2020-05-23,Arroyo,4,0.3
+2020-05-23,Barceloneta,0,0
 2020-05-23,Barranquitas,9,0.8
 2020-05-23,Bayamón,73,6.4
 2020-05-23,Cabo Rojo,17,1.5
@@ -2242,10 +2371,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-23,Cataño,6,0.5
 2020-05-23,Cayey,10,0.9
 2020-05-23,Ceiba,6,0.5
+2020-05-23,Ciales,0,0
 2020-05-23,Cidra,11,1
 2020-05-23,Coamo,4,0.3
 2020-05-23,Comerío,3,0.3
 2020-05-23,Corozal,7,0.6
+2020-05-23,Culebra,0,0
 2020-05-23,Dorado,13,1.1
 2020-05-23,Fajardo,2,0.2
 2020-05-23,Florida,2,0.2
@@ -2292,15 +2423,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-23,Toa Alta,26,2.3
 2020-05-23,Toa Baja,26,2.3
 2020-05-23,Trujillo Alto,24,2.1
+2020-05-23,Utuado,0,0
 2020-05-23,Vega Alta,12,1
 2020-05-23,Vega Baja,8,0.7
+2020-05-23,Vieques,0,0
 2020-05-23,Villalba,12,1
 2020-05-23,Yabucoa,3,0.3
 2020-05-23,Yauco,17,1.5
-2020-05-23,Nueva York,6,NA
-2020-05-23,Nueva Jersey,2,NA
-2020-05-23,Florida (estado),1,NA
-2020-05-23,Otro lugar fuera de PR,2,NA
+2020-05-23,Otro lugar fuera de PR,11,NA
 2020-05-23,No disponible,76,NA
 2020-05-23,Total,1230,NA
 2020-05-24,Adjuntas,6,0.5
@@ -2311,6 +2441,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-24,Añasco,6,0.5
 2020-05-24,Arecibo,16,1.4
 2020-05-24,Arroyo,4,0.3
+2020-05-24,Barceloneta,0,0
 2020-05-24,Barranquitas,9,0.8
 2020-05-24,Bayamón,74,6.4
 2020-05-24,Cabo Rojo,17,1.5
@@ -2321,10 +2452,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-24,Cataño,6,0.5
 2020-05-24,Cayey,10,0.9
 2020-05-24,Ceiba,6,0.5
+2020-05-24,Ciales,0,0
 2020-05-24,Cidra,12,1
 2020-05-24,Coamo,4,0.3
 2020-05-24,Comerío,3,0.3
 2020-05-24,Corozal,7,0.6
+2020-05-24,Culebra,0,0
 2020-05-24,Dorado,13,1.1
 2020-05-24,Fajardo,2,0.2
 2020-05-24,Florida,2,0.2
@@ -2371,15 +2504,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-24,Toa Alta,26,2.2
 2020-05-24,Toa Baja,27,2.3
 2020-05-24,Trujillo Alto,25,2.2
+2020-05-24,Utuado,0,0
 2020-05-24,Vega Alta,12,1
 2020-05-24,Vega Baja,8,0.7
+2020-05-24,Vieques,0,0
 2020-05-24,Villalba,12,1
 2020-05-24,Yabucoa,3,0.3
 2020-05-24,Yauco,18,1.6
-2020-05-24,Nueva York,6,NA
-2020-05-24,Nueva Jersey,2,NA
-2020-05-24,Florida (estado),1,NA
-2020-05-24,Otro lugar fuera de PR,2,NA
+2020-05-24,Otro lugar fuera de PR,11,NA
 2020-05-24,No disponible,71,NA
 2020-05-24,Total,1240,NA
 2020-05-25,Adjuntas,6,0.5
@@ -2390,6 +2522,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-25,Añasco,6,0.5
 2020-05-25,Arecibo,16,1.4
 2020-05-25,Arroyo,4,0.3
+2020-05-25,Barceloneta,0,0
 2020-05-25,Barranquitas,9,0.8
 2020-05-25,Bayamón,74,6.4
 2020-05-25,Cabo Rojo,17,1.5
@@ -2400,10 +2533,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-25,Cataño,6,0.5
 2020-05-25,Cayey,10,0.9
 2020-05-25,Ceiba,6,0.5
+2020-05-25,Ciales,0,0
 2020-05-25,Cidra,12,1
 2020-05-25,Coamo,4,0.3
 2020-05-25,Comerío,3,0.3
 2020-05-25,Corozal,7,0.6
+2020-05-25,Culebra,0,0
 2020-05-25,Dorado,13,1.1
 2020-05-25,Fajardo,2,0.2
 2020-05-25,Florida,2,0.2
@@ -2450,15 +2585,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-25,Toa Alta,26,2.2
 2020-05-25,Toa Baja,27,2.3
 2020-05-25,Trujillo Alto,25,2.2
+2020-05-25,Utuado,0,0
 2020-05-25,Vega Alta,12,1
 2020-05-25,Vega Baja,8,0.7
+2020-05-25,Vieques,0,0
 2020-05-25,Villalba,12,1
 2020-05-25,Yabucoa,3,0.3
 2020-05-25,Yauco,18,1.6
-2020-05-25,Nueva York,6,NA
-2020-05-25,Nueva Jersey,2,NA
-2020-05-25,Florida (estado),1,NA
-2020-05-25,Otro lugar fuera de PR,2,NA
+2020-05-25,Otro lugar fuera de PR,11,NA
 2020-05-25,No disponible,71,NA
 2020-05-25,Total,1241,NA
 2020-05-26,Adjuntas,6,0.5
@@ -2469,6 +2603,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-26,Añasco,6,0.5
 2020-05-26,Arecibo,17,1.4
 2020-05-26,Arroyo,4,0.3
+2020-05-26,Barceloneta,0,0
 2020-05-26,Barranquitas,9,0.8
 2020-05-26,Bayamón,77,6.5
 2020-05-26,Cabo Rojo,17,1.4
@@ -2479,10 +2614,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-26,Cataño,6,0.5
 2020-05-26,Cayey,10,0.9
 2020-05-26,Ceiba,6,0.5
+2020-05-26,Ciales,0,0
 2020-05-26,Cidra,12,1
 2020-05-26,Coamo,4,0.3
 2020-05-26,Comerío,3,0.3
 2020-05-26,Corozal,7,0.6
+2020-05-26,Culebra,0,0
 2020-05-26,Dorado,13,1.1
 2020-05-26,Fajardo,2,0.2
 2020-05-26,Florida,2,0.2
@@ -2529,15 +2666,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-26,Toa Alta,26,2.2
 2020-05-26,Toa Baja,27,2.3
 2020-05-26,Trujillo Alto,26,2.2
+2020-05-26,Utuado,0,0
 2020-05-26,Vega Alta,12,1
 2020-05-26,Vega Baja,8,0.7
+2020-05-26,Vieques,0,0
 2020-05-26,Villalba,12,1
 2020-05-26,Yabucoa,3,0.3
 2020-05-26,Yauco,18,1.5
-2020-05-26,Nueva York,7,NA
-2020-05-26,Nueva Jersey,2,NA
-2020-05-26,Florida (estado),1,NA
-2020-05-26,Otro lugar fuera de PR,2,NA
+2020-05-26,Otro lugar fuera de PR,12,NA
 2020-05-26,No disponible,72,NA
 2020-05-26,Total,1260,NA
 2020-05-27,Adjuntas,7,0.6
@@ -2559,10 +2695,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-27,Cataño,7,0.6
 2020-05-27,Cayey,10,0.8
 2020-05-27,Ceiba,6,0.5
+2020-05-27,Ciales,0,0
 2020-05-27,Cidra,12,1
 2020-05-27,Coamo,4,0.3
 2020-05-27,Comerío,3,0.3
 2020-05-27,Corozal,7,0.6
+2020-05-27,Culebra,0,0
 2020-05-27,Dorado,13,1.1
 2020-05-27,Fajardo,2,0.2
 2020-05-27,Florida,2,0.2
@@ -2609,15 +2747,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-27,Toa Alta,26,2.2
 2020-05-27,Toa Baja,27,2.3
 2020-05-27,Trujillo Alto,26,2.2
+2020-05-27,Utuado,0,0
 2020-05-27,Vega Alta,12,1
 2020-05-27,Vega Baja,8,0.7
+2020-05-27,Vieques,0,0
 2020-05-27,Villalba,12,1
 2020-05-27,Yabucoa,3,0.3
 2020-05-27,Yauco,19,1.6
-2020-05-27,Nueva York,7,NA
-2020-05-27,Nueva Jersey,2,NA
-2020-05-27,Florida (estado),1,NA
-2020-05-27,Otro lugar fuera de PR,2,NA
+2020-05-27,Otro lugar fuera de PR,12,NA
 2020-05-27,No disponible,70,NA
 2020-05-27,Total,1280,NA
 2020-05-28,Adjuntas,7,0.6
@@ -2639,10 +2776,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-28,Cataño,7,0.6
 2020-05-28,Cayey,10,0.8
 2020-05-28,Ceiba,7,0.6
+2020-05-28,Ciales,0,0
 2020-05-28,Cidra,12,1
 2020-05-28,Coamo,4,0.3
 2020-05-28,Comerío,3,0.2
 2020-05-28,Corozal,7,0.6
+2020-05-28,Culebra,0,0
 2020-05-28,Dorado,13,1.1
 2020-05-28,Fajardo,2,0.2
 2020-05-28,Florida,2,0.2
@@ -2689,15 +2828,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-28,Toa Alta,26,0.2
 2020-05-28,Toa Baja,27,2.1
 2020-05-28,Trujillo Alto,26,2.2
+2020-05-28,Utuado,0,0
 2020-05-28,Vega Alta,12,2.1
 2020-05-28,Vega Baja,8,1
+2020-05-28,Vieques,0,0
 2020-05-28,Villalba,12,0.7
 2020-05-28,Yabucoa,3,1
 2020-05-28,Yauco,19,0.2
-2020-05-28,Nueva York,7,NA
-2020-05-28,Nueva Jersey,2,NA
-2020-05-28,Florida (estado),1,NA
-2020-05-28,Otro lugar fuera de PR,2,NA
+2020-05-28,Otro lugar fuera de PR,12,NA
 2020-05-28,No disponible,67,NA
 2020-05-28,Total,1293,NA
 2020-05-29,Adjuntas,7,0.6
@@ -2719,10 +2857,12 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-29,Cataño,7,0.6
 2020-05-29,Cayey,10,0.8
 2020-05-29,Ceiba,7,0.6
+2020-05-29,Ciales,0,0
 2020-05-29,Cidra,12,1
 2020-05-29,Coamo,4,0.3
 2020-05-29,Comerío,3,0.2
 2020-05-29,Corozal,7,0.6
+2020-05-29,Culebra,0,0
 2020-05-29,Dorado,13,1.1
 2020-05-29,Fajardo,2,0.2
 2020-05-29,Florida,2,0.2
@@ -2769,15 +2909,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-29,Toa Alta,26,2.1
 2020-05-29,Toa Baja,27,2.2
 2020-05-29,Trujillo Alto,26,2.1
+2020-05-29,Utuado,0,0
 2020-05-29,Vega Alta,12,1
 2020-05-29,Vega Baja,8,0.7
+2020-05-29,Vieques,0,0
 2020-05-29,Villalba,12,1
 2020-05-29,Yabucoa,3,0.2
 2020-05-29,Yauco,18,1.5
-2020-05-29,Nueva York,7,NA
-2020-05-29,Nueva Jersey,2,NA
-2020-05-29,Florida (estado),1,NA
-2020-05-29,Otro lugar fuera de PR,2,NA
+2020-05-29,Otro lugar fuera de PR,12,NA
 2020-05-29,No disponible,67,NA
 2020-05-29,Total,1300,NA
 2020-05-30,Adjuntas,7,0.6
@@ -2804,6 +2943,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-30,Coamo,4,0.3
 2020-05-30,Comerío,3,0.2
 2020-05-30,Corozal,7,0.6
+2020-05-30,Culebra,0,0
 2020-05-30,Dorado,13,1.1
 2020-05-30,Fajardo,2,0.2
 2020-05-30,Florida,2,0.2
@@ -2849,15 +2989,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-30,Toa Alta,26,2.1
 2020-05-30,Toa Baja,27,2.2
 2020-05-30,Trujillo Alto,26,2.1
+2020-05-30,Utuado,0,0
 2020-05-30,Vega Alta,12,1
 2020-05-30,Vega Baja,8,0.7
+2020-05-30,Vieques,0,0
 2020-05-30,Villalba,12,1
 2020-05-30,Yabucoa,3,0.2
 2020-05-30,Yauco,18,1.5
-2020-05-30,Nueva York,7,NA
-2020-05-30,Nueva Jersey,2,NA
-2020-05-30,Florida (estado),1,NA
-2020-05-30,Otro lugar fuera de PR,2,NA
+2020-05-30,Otro lugar fuera de PR,12,NA
 2020-05-30,No disponible,68,NA
 2020-05-30,Total,1304,NA
 2020-05-31,Adjuntas,7,0.6
@@ -2884,6 +3023,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-31,Coamo,4,0.3
 2020-05-31,Comerío,3,0.2
 2020-05-31,Corozal,7,0.6
+2020-05-31,Culebra,0,0
 2020-05-31,Dorado,13,1.1
 2020-05-31,Fajardo,2,0.2
 2020-05-31,Florida,2,0.2
@@ -2930,15 +3070,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-05-31,Toa Alta,26,2.1
 2020-05-31,Toa Baja,27,2.2
 2020-05-31,Trujillo Alto,25,2
+2020-05-31,Utuado,0,0
 2020-05-31,Vega Alta,12,1
 2020-05-31,Vega Baja,8,0.7
+2020-05-31,Vieques,0,0
 2020-05-31,Villalba,12,1
 2020-05-31,Yabucoa,3,0.2
 2020-05-31,Yauco,18,1.5
-2020-05-31,Nueva York,7,NA
-2020-05-31,Nueva Jersey,2,NA
-2020-05-31,Florida (estado),1,NA
-2020-05-31,Otro lugar fuera de PR,2,NA
+2020-05-31,Otro lugar fuera de PR,12,NA
 2020-05-31,No disponible,68,NA
 2020-05-31,Total,1304,NA
 2020-06-01,Adjuntas,7,0.6
@@ -2965,6 +3104,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-01,Coamo,4,0.3
 2020-06-01,Comerío,3,0.2
 2020-06-01,Corozal,7,0.6
+2020-06-01,Culebra,0,0
 2020-06-01,Dorado,13,1.1
 2020-06-01,Fajardo,2,0.2
 2020-06-01,Florida,2,0.2
@@ -3011,15 +3151,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-01,Toa Alta,26,2.1
 2020-06-01,Toa Baja,27,2.2
 2020-06-01,Trujillo Alto,25,2
+2020-06-01,Utuado,0,0
 2020-06-01,Vega Alta,12,1
 2020-06-01,Vega Baja,8,0.7
+2020-06-01,Vieques,0,0
 2020-06-01,Villalba,12,1
 2020-06-01,Yabucoa,3,0.2
 2020-06-01,Yauco,18,1.5
-2020-06-01,Nueva York,7,NA
-2020-06-01,Nueva Jersey,2,NA
-2020-06-01,Florida (estado),1,NA
-2020-06-01,Otro lugar fuera de PR,2,NA
+2020-06-01,Otro lugar fuera de PR,12,NA
 2020-06-01,No disponible,68,NA
 2020-06-01,Total,1305,NA
 2020-06-02,Adjuntas,7,0.6
@@ -3046,6 +3185,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-02,Coamo,4,0.3
 2020-06-02,Comerío,3,0.2
 2020-06-02,Corozal,7,0.6
+2020-06-02,Culebra,0,0
 2020-06-02,Dorado,13,1.1
 2020-06-02,Fajardo,2,0.2
 2020-06-02,Florida,2,0.2
@@ -3092,15 +3232,14 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-02,Toa Alta,26,2.1
 2020-06-02,Toa Baja,27,2.2
 2020-06-02,Trujillo Alto,25,2
+2020-06-02,Utuado,0,0
 2020-06-02,Vega Alta,12,1
 2020-06-02,Vega Baja,8,0.6
+2020-06-02,Vieques,0,0
 2020-06-02,Villalba,12,1
 2020-06-02,Yabucoa,3,0.2
 2020-06-02,Yauco,18,1.5
-2020-06-02,Nueva York,7,NA
-2020-06-02,Nueva Jersey,2,NA
-2020-06-02,Florida (estado),1,NA
-2020-06-02,Otro lugar fuera de PR,2,NA
+2020-06-02,Otro lugar fuera de PR,12,NA
 2020-06-02,No disponible,68,NA
 2020-06-02,Total,1313,NA
 2020-06-03,Adjuntas,7,0.6
@@ -3127,6 +3266,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-03,Coamo,4,0.3
 2020-06-03,Comerío,3,0.2
 2020-06-03,Corozal,7,0.6
+2020-06-03,Culebra,0,0
 2020-06-03,Dorado,13,1
 2020-06-03,Fajardo,2,0.2
 2020-06-03,Florida,2,0.2
@@ -3176,13 +3316,11 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-03,Utuado,1,0.1
 2020-06-03,Vega Alta,12,1
 2020-06-03,Vega Baja,8,0.6
+2020-06-03,Vieques,0,0
 2020-06-03,Villalba,12,1
 2020-06-03,Yabucoa,3,0.2
 2020-06-03,Yauco,18,1.4
-2020-06-03,Nueva York,7,NA
-2020-06-03,Nueva Jersey,2,NA
-2020-06-03,Florida (estado),1,NA
-2020-06-03,Otro lugar fuera de PR,2,NA
+2020-06-03,Otro lugar fuera de PR,12,NA
 2020-06-03,No disponible,66,NA
 2020-06-03,Total,1322,NA
 2020-06-04,Adjuntas,7,0.6
@@ -3209,6 +3347,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-04,Coamo,4,0.3
 2020-06-04,Comerío,3,0.2
 2020-06-04,Corozal,7,0.6
+2020-06-04,Culebra,0,0
 2020-06-04,Dorado,14,1.1
 2020-06-04,Fajardo,2,0.2
 2020-06-04,Florida,2,0.2
@@ -3258,13 +3397,11 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-04,Utuado,1,0.1
 2020-06-04,Vega Alta,12,1
 2020-06-04,Vega Baja,8,0.6
+2020-06-04,Vieques,0,0
 2020-06-04,Villalba,12,1
 2020-06-04,Yabucoa,4,0.3
 2020-06-04,Yauco,18,1.4
-2020-06-04,Nueva York,7,NA
-2020-06-04,Nueva Jersey,2,NA
-2020-06-04,Florida (estado),1,NA
-2020-06-04,Otro lugar fuera de PR,2,NA
+2020-06-04,Otro lugar fuera de PR,12,NA
 2020-06-04,No disponible,67,NA
 2020-06-04,Total,1330,NA
 2020-06-05,Adjuntas,7,0.5
@@ -3291,6 +3428,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-05,Coamo,4,0.3
 2020-06-05,Comerío,3,0.2
 2020-06-05,Corozal,8,0.6
+2020-06-05,Culebra,0,0
 2020-06-05,Dorado,14,1.1
 2020-06-05,Fajardo,2,0.2
 2020-06-05,Florida,2,0.2
@@ -3340,13 +3478,11 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-05,Utuado,1,0.1
 2020-06-05,Vega Alta,12,0.9
 2020-06-05,Vega Baja,8,0.6
+2020-06-05,Vieques,0,0
 2020-06-05,Villalba,12,0.9
 2020-06-05,Yabucoa,4,0.3
 2020-06-05,Yauco,19,1.5
-2020-06-05,Nueva York,7,NA
-2020-06-05,Nueva Jersey,2,NA
-2020-06-05,Florida (estado),1,NA
-2020-06-05,Otro lugar fuera de PR,2,NA
+2020-06-05,Otro lugar fuera de PR,12,NA
 2020-06-05,No disponible,66,NA
 2020-06-05,Total,1360,NA
 2020-06-06,Adjuntas,8,0.6
@@ -3373,6 +3509,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-06,Coamo,4,0.3
 2020-06-06,Comerío,3,0.2
 2020-06-06,Corozal,8,0.6
+2020-06-06,Culebra,0,0
 2020-06-06,Dorado,15,1.2
 2020-06-06,Fajardo,3,0.2
 2020-06-06,Florida,2,0.2
@@ -3422,13 +3559,11 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-06,Utuado,1,0.1
 2020-06-06,Vega Alta,12,0.9
 2020-06-06,Vega Baja,8,0.6
+2020-06-06,Vieques,0,0
 2020-06-06,Villalba,12,0.9
 2020-06-06,Yabucoa,4,0.3
 2020-06-06,Yauco,19,1.5
-2020-06-06,Nueva York,7,NA
-2020-06-06,Nueva Jersey,2,NA
-2020-06-06,Florida (estado),2,NA
-2020-06-06,Otro lugar fuera de PR,2,NA
+2020-06-06,Otro lugar fuera de PR,13,NA
 2020-06-06,No disponible,52,NA
 2020-06-06,Total,1364,NA
 2020-06-07,Adjuntas,8,0.6
@@ -3455,6 +3590,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-07,Coamo,4,0.3
 2020-06-07,Comerío,3,0.2
 2020-06-07,Corozal,8,0.6
+2020-06-07,Culebra,0,0
 2020-06-07,Dorado,15,1.1
 2020-06-07,Fajardo,3,0.2
 2020-06-07,Florida,2,0.2
@@ -3504,13 +3640,11 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-07,Utuado,1,0.1
 2020-06-07,Vega Alta,12,0.9
 2020-06-07,Vega Baja,9,0.7
+2020-06-07,Vieques,0,0
 2020-06-07,Villalba,12,0.9
 2020-06-07,Yabucoa,4,0.3
 2020-06-07,Yauco,19,1.5
-2020-06-07,Nueva York,7,NA
-2020-06-07,Nueva Jersey,2,NA
-2020-06-07,Florida (estado),2,NA
-2020-06-07,Otro lugar fuera de PR,2,NA
+2020-06-07,Otro lugar fuera de PR,13,NA
 2020-06-07,No disponible,53,NA
 2020-06-07,Total,1373,NA
 2020-06-08,Adjuntas,8,0.6
@@ -3537,6 +3671,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-08,Coamo,4,0.3
 2020-06-08,Comerío,3,0.2
 2020-06-08,Corozal,9,0.7
+2020-06-08,Culebra,0,0
 2020-06-08,Dorado,16,1.2
 2020-06-08,Fajardo,3,0.2
 2020-06-08,Florida,2,0.2
@@ -3586,13 +3721,11 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-08,Utuado,1,0.1
 2020-06-08,Vega Alta,12,0.9
 2020-06-08,Vega Baja,9,0.7
+2020-06-07,Vieques,0,0
 2020-06-08,Villalba,12,0.9
 2020-06-08,Yabucoa,4,0.3
 2020-06-08,Yauco,19,1.4
-2020-06-08,Nueva York,7,NA
-2020-06-08,Nueva Jersey,2,NA
-2020-06-08,Florida (estado),2,NA
-2020-06-08,Otro lugar fuera de PR,2,NA
+2020-06-08,Otro lugar fuera de PR,13,NA
 2020-06-08,No disponible,51,NA
 2020-06-08,Total,1386,NA
 2020-06-09,Adjuntas,8,0.6
@@ -3619,6 +3752,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-09,Coamo,4,0.3
 2020-06-09,Comerío,3,0.2
 2020-06-09,Corozal,9,0.7
+2020-06-09,Culebra,0,0
 2020-06-09,Dorado,16,1.2
 2020-06-09,Fajardo,3,0.2
 2020-06-09,Florida,3,0.2
@@ -3668,13 +3802,11 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-09,Utuado,1,0.1
 2020-06-09,Vega Alta,12,0.9
 2020-06-09,Vega Baja,9,0.7
+2020-06-09,Vieques,0,0
 2020-06-09,Villalba,12,0.9
 2020-06-09,Yabucoa,5,0.4
 2020-06-09,Yauco,19,1.4
-2020-06-09,Nueva York,8,NA
-2020-06-09,Nueva Jersey,2,NA
-2020-06-09,Florida (estado),2,NA
-2020-06-09,Otro lugar fuera de PR,2,NA
+2020-06-09,Otro lugar fuera de PR,14,NA
 2020-06-09,No disponible,45,NA
 2020-06-09,Total,1402,NA
 2020-06-10,Adjuntas,8,0.6
@@ -3701,6 +3833,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-10,Coamo,4,0.3
 2020-06-10,Comerío,3,0.2
 2020-06-10,Corozal,9,0.7
+2020-06-10,Culebra,0,0
 2020-06-10,Dorado,16,1.2
 2020-06-10,Fajardo,3,0.2
 2020-06-10,Florida,3,0.2
@@ -3750,13 +3883,11 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-10,Utuado,1,0.1
 2020-06-10,Vega Alta,12,0.9
 2020-06-10,Vega Baja,9,0.7
+2020-06-10,Vieques,0,0
 2020-06-10,Villalba,12,0.9
 2020-06-10,Yabucoa,5,0.4
 2020-06-10,Yauco,18,1.3
-2020-06-10,Nueva York,8,NA
-2020-06-10,Nueva Jersey,2,NA
-2020-06-10,Florida (estado),2,NA
-2020-06-10,Otro lugar fuera de PR,2,NA
+2020-06-10,Otro lugar fuera de PR,14,NA
 2020-06-10,No disponible,44,NA
 2020-06-10,Total,1403,NA
 2020-06-11,Adjuntas,8,0.6
@@ -3783,6 +3914,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-11,Coamo,4,0.3
 2020-06-11,Comerío,3,0.2
 2020-06-11,Corozal,9,0.7
+2020-06-11,Culebra,0,0
 2020-06-11,Dorado,16,1.2
 2020-06-11,Fajardo,3,0.2
 2020-06-11,Florida,3,0.2
@@ -3832,6 +3964,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-11,Utuado,1,0.1
 2020-06-11,Vega Alta,12,0.9
 2020-06-11,Vega Baja,9,0.7
+2020-06-11,Vieques,0,0
 2020-06-11,Villalba,12,0.9
 2020-06-11,Yabucoa,5,0.4
 2020-06-11,Yauco,18,1.3
@@ -3862,6 +3995,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-12,Coamo,4,0.3
 2020-06-12,Comerío,3,0.2
 2020-06-12,Corozal,9,0.6
+2020-06-12,Culebra,0,0
 2020-06-12,Dorado,16,1.1
 2020-06-12,Fajardo,3,0.2
 2020-06-12,Florida,3,0.2
@@ -3911,6 +4045,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-12,Utuado,1,0.1
 2020-06-12,Vega Alta,12,0.9
 2020-06-12,Vega Baja,9,0.6
+2020-06-12,Vieques,0,0
 2020-06-12,Villalba,13,0.9
 2020-06-12,Yabucoa,5,0.4
 2020-06-12,Yauco,18,1.3
@@ -3941,6 +4076,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-13,Coamo,4,0.3
 2020-06-13,Comerío,3,0.2
 2020-06-13,Corozal,9,0.6
+2020-06-13,Culebra,0,0
 2020-06-13,Dorado,16,1.1
 2020-06-13,Fajardo,3,0.2
 2020-06-13,Florida,3,0.2
@@ -3990,6 +4126,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-13,Utuado,1,0.1
 2020-06-13,Vega Alta,12,0.8
 2020-06-13,Vega Baja,9,0.6
+2020-06-13,Vieques,0,0
 2020-06-13,Villalba,14,1
 2020-06-13,Yabucoa,5,0.4
 2020-06-13,Yauco,18,1.3
@@ -4020,6 +4157,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-14,Coamo,4,0.3
 2020-06-14,Comerío,3,0.2
 2020-06-14,Corozal,9,0.6
+2020-06-14,Culebra,0,0
 2020-06-14,Dorado,16,1.1
 2020-06-14,Fajardo,3,0.2
 2020-06-14,Florida,3,0.2
@@ -4069,6 +4207,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-14,Utuado,1,0.1
 2020-06-14,Vega Alta,12,0.8
 2020-06-14,Vega Baja,9,0.6
+2020-06-14,Vieques,0,0
 2020-06-14,Villalba,14,1
 2020-06-14,Yabucoa,5,0.4
 2020-06-14,Yauco,18,1.3
@@ -4099,6 +4238,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-15,Coamo,4,0.3
 2020-06-15,Comerío,3,0.2
 2020-06-15,Corozal,9,0.6
+2020-06-15,Culebra,0,0
 2020-06-15,Dorado,16,1.1
 2020-06-15,Fajardo,3,0.2
 2020-06-15,Florida,3,0.2
@@ -4148,6 +4288,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-15,Utuado,1,0.1
 2020-06-15,Vega Alta,12,0.8
 2020-06-15,Vega Baja,9,0.6
+2020-06-15,Vieques,0,0
 2020-06-15,Villalba,14,1
 2020-06-15,Yabucoa,5,0.4
 2020-06-15,Yauco,18,1.3
@@ -4178,6 +4319,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-16,Coamo,4,0.3
 2020-06-16,Comerío,3,0.2
 2020-06-16,Corozal,9,0.6
+2020-06-16,Culebra,0,0
 2020-06-16,Dorado,16,1.1
 2020-06-16,Fajardo,3,0.2
 2020-06-16,Florida,3,0.2
@@ -4227,6 +4369,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-16,Utuado,1,0.1
 2020-06-16,Vega Alta,12,0.8
 2020-06-16,Vega Baja,9,0.6
+2020-06-16,Vieques,0,0
 2020-06-16,Villalba,14,1
 2020-06-16,Yabucoa,5,0.4
 2020-06-16,Yauco,18,1.3
@@ -4257,6 +4400,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-17,Coamo,4,0.3
 2020-06-17,Comerío,3,0.2
 2020-06-17,Corozal,9,0.6
+2020-06-17,Culebra,0,0
 2020-06-17,Dorado,16,1.1
 2020-06-17,Fajardo,3,0.2
 2020-06-17,Florida,3,0.2
@@ -4306,6 +4450,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-17,Utuado,1,0.1
 2020-06-17,Vega Alta,12,0.8
 2020-06-17,Vega Baja,9,0.6
+2020-06-17,Vieques,0,0
 2020-06-17,Villalba,14,1
 2020-06-17,Yabucoa,5,0.3
 2020-06-17,Yauco,19,1.3
@@ -4336,6 +4481,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-18,Coamo,4,0.3
 2020-06-18,Comerío,3,0.2
 2020-06-18,Corozal,9,0.6
+2020-06-18,Culebra,0,0
 2020-06-18,Dorado,16,1.1
 2020-06-18,Fajardo,3,0.2
 2020-06-18,Florida,3,0.2
@@ -4385,6 +4531,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-18,Utuado,1,0.1
 2020-06-18,Vega Alta,12,0.8
 2020-06-18,Vega Baja,9,0.6
+2020-06-18,Vieques,0,0
 2020-06-18,Villalba,14,1
 2020-06-18,Yabucoa,5,0.3
 2020-06-18,Yauco,20,1.4
@@ -4415,6 +4562,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-19,Coamo,4,0.3
 2020-06-19,Comerío,3,0.2
 2020-06-19,Corozal,9,0.6
+2020-06-19,Culebra,0,0
 2020-06-19,Dorado,16,1.1
 2020-06-19,Fajardo,3,0.2
 2020-06-19,Florida,3,0.2
@@ -4464,6 +4612,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-19,Utuado,1,0.1
 2020-06-19,Vega Alta,12,0.8
 2020-06-19,Vega Baja,9,0.6
+2020-06-19,Vieques,0,0
 2020-06-19,Villalba,14,1
 2020-06-19,Yabucoa,5,0.3
 2020-06-19,Yauco,20,1.4
@@ -4494,6 +4643,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-20,Coamo,4,0.3
 2020-06-20,Comerío,3,0.2
 2020-06-20,Corozal,9,0.6
+2020-06-20,Culebra,0,0
 2020-06-20,Dorado,16,1.1
 2020-06-20,Fajardo,3,0.2
 2020-06-20,Florida,3,0.2
@@ -4543,6 +4693,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-20,Utuado,1,0.1
 2020-06-20,Vega Alta,12,0.8
 2020-06-20,Vega Baja,8,0.5
+2020-06-20,Vieques,0,0
 2020-06-20,Villalba,14,0.9
 2020-06-20,Yabucoa,5,0.3
 2020-06-20,Yauco,20,1.3
@@ -4573,6 +4724,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-21,Coamo,4,0.3
 2020-06-21,Comerío,3,0.2
 2020-06-21,Corozal,9,0.6
+2020-06-21,Culebra,0,0
 2020-06-21,Dorado,16,1.1
 2020-06-21,Fajardo,3,0.2
 2020-06-21,Florida,3,0.2
@@ -4622,6 +4774,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-21,Utuado,1,0.1
 2020-06-21,Vega Alta,12,0.8
 2020-06-21,Vega Baja,8,0.5
+2020-06-21,Vieques,0,0
 2020-06-21,Villalba,14,0.9
 2020-06-21,Yabucoa,5,0.3
 2020-06-21,Yauco,20,1.3
@@ -4652,6 +4805,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-22,Coamo,5,0.3
 2020-06-22,Comerío,3,0.2
 2020-06-22,Corozal,9,0.6
+2020-06-22,Culebra,0,0
 2020-06-22,Dorado,16,1.1
 2020-06-22,Fajardo,3,0.2
 2020-06-22,Florida,3,0.2
@@ -4701,6 +4855,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-22,Utuado,1,0.1
 2020-06-22,Vega Alta,12,0.8
 2020-06-22,Vega Baja,8,0.5
+2020-06-22,Vieques,0,0
 2020-06-22,Villalba,14,0.9
 2020-06-22,Yabucoa,5,0.3
 2020-06-22,Yauco,20,1.4
@@ -4731,6 +4886,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-23,Coamo,5,0.3
 2020-06-23,Comerío,3,0.2
 2020-06-23,Corozal,9,0.6
+2020-06-23,Culebra,0,0
 2020-06-23,Dorado,16,1.1
 2020-06-23,Fajardo,4,0.3
 2020-06-23,Florida,3,0.2
@@ -4780,6 +4936,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-23,Utuado,1,0.1
 2020-06-23,Vega Alta,12,0.8
 2020-06-23,Vega Baja,8,0.5
+2020-06-23,Vieques,0,0
 2020-06-23,Villalba,14,0.9
 2020-06-23,Yabucoa,5,0.3
 2020-06-23,Yauco,20,1.3
@@ -4810,6 +4967,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-24,Coamo,5,0.3
 2020-06-24,Comerío,3,0.2
 2020-06-24,Corozal,9,0.6
+2020-06-24,Culebra,0,0
 2020-06-24,Dorado,16,1.1
 2020-06-24,Fajardo,4,0.3
 2020-06-24,Florida,3,0.2
@@ -4859,6 +5017,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-24,Utuado,1,0.1
 2020-06-24,Vega Alta,12,0.8
 2020-06-24,Vega Baja,8,0.5
+2020-06-24,Vieques,0,0
 2020-06-24,Villalba,14,0.9
 2020-06-24,Yabucoa,5,0.3
 2020-06-24,Yauco,20,1.3
@@ -4889,6 +5048,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-25,Coamo,5,0.3
 2020-06-25,Comerío,3,0.2
 2020-06-25,Corozal,9,0.6
+2020-06-25,Culebra,0,0
 2020-06-25,Dorado,16,1.1
 2020-06-25,Fajardo,4,0.3
 2020-06-25,Florida,3,0.2
@@ -4938,6 +5098,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-25,Utuado,1,0.1
 2020-06-25,Vega Alta,12,0.8
 2020-06-25,Vega Baja,8,0.5
+2020-06-25,Vieques,0,0
 2020-06-25,Villalba,14,0.9
 2020-06-25,Yabucoa,5,0.3
 2020-06-25,Yauco,20,1.3
@@ -4968,6 +5129,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-26,Coamo,5,0.3
 2020-06-26,Comerío,3,0.2
 2020-06-26,Corozal,9,0.6
+2020-06-26,Culebra,0,0
 2020-06-26,Dorado,16,1
 2020-06-26,Fajardo,4,0.3
 2020-06-26,Florida,3,0.2
@@ -5017,6 +5179,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-26,Utuado,1,0.1
 2020-06-26,Vega Alta,12,0.8
 2020-06-26,Vega Baja,8,0.5
+2020-06-26,Vieques,0,0
 2020-06-26,Villalba,14,0.9
 2020-06-26,Yabucoa,7,0.5
 2020-06-26,Yauco,20,1.3
@@ -5047,6 +5210,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-27,Coamo,5,0.3
 2020-06-27,Comerío,3,0.2
 2020-06-27,Corozal,9,0.6
+2020-06-27,Culebra,0,0
 2020-06-27,Dorado,16,1
 2020-06-27,Fajardo,4,0.3
 2020-06-27,Florida,3,0.2
@@ -5096,6 +5260,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-27,Utuado,1,0.1
 2020-06-27,Vega Alta,12,0.8
 2020-06-27,Vega Baja,9,0.6
+2020-06-27,Vieques,0,0
 2020-06-27,Villalba,14,0.9
 2020-06-27,Yabucoa,7,0.5
 2020-06-27,Yauco,20,1.3
@@ -5126,6 +5291,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-28,Coamo,5,0.3
 2020-06-28,Comerío,3,0.2
 2020-06-28,Corozal,9,0.6
+2020-06-28,Culebra,0,0
 2020-06-28,Dorado,16,1
 2020-06-28,Fajardo,4,0.3
 2020-06-28,Florida,3,0.2
@@ -5175,6 +5341,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-28,Utuado,1,0.1
 2020-06-28,Vega Alta,12,0.8
 2020-06-28,Vega Baja,9,0.6
+2020-06-28,Vieques,0,0
 2020-06-28,Villalba,14,0.9
 2020-06-28,Yabucoa,7,0.4
 2020-06-28,Yauco,21,1.3
@@ -5255,6 +5422,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-29,Utuado,1,0.1
 2020-06-29,Vega Alta,12,0.7
 2020-06-29,Vega Baja,9,0.6
+2020-06-29,Vieques,0,0
 2020-06-29,Villalba,14,0.9
 2020-06-29,Yabucoa,7,0.4
 2020-06-29,Yauco,22,1.4
@@ -5335,6 +5503,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-06-30,Utuado,1,0.1
 2020-06-30,Vega Alta,12,0.7
 2020-06-30,Vega Baja,9,0.5
+2020-06-30,Vieques,0,0
 2020-06-30,Villalba,15,0.9
 2020-06-30,Yabucoa,7,0.4
 2020-06-30,Yauco,22,1.3
@@ -5415,6 +5584,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-07-01,Utuado,1,0.1
 2020-07-01,Vega Alta,12,0.7
 2020-07-01,Vega Baja,9,0.5
+2020-07-01,Vieques,0,0
 2020-07-01,Villalba,15,0.9
 2020-07-01,Yabucoa,7,0.4
 2020-07-01,Yauco,23,1.4
@@ -5495,6 +5665,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-07-02,Utuado,1,0.1
 2020-07-02,Vega Alta,13,0.8
 2020-07-02,Vega Baja,10,0.6
+2020-07-02,Vieques,0,0
 2020-07-02,Villalba,15,0.9
 2020-07-02,Yabucoa,7,0.4
 2020-07-02,Yauco,23,1.3
@@ -5575,6 +5746,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-07-03,Utuado,1,0.1
 2020-07-03,Vega Alta,13,0.7
 2020-07-03,Vega Baja,10,0.6
+2020-07-03,Vieques,0,0
 2020-07-03,Villalba,15,0.9
 2020-07-03,Yabucoa,7,0.4
 2020-07-03,Yauco,23,1.3
@@ -5655,6 +5827,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-07-04,Utuado,1,0.1
 2020-07-04,Vega Alta,13,0.7
 2020-07-04,Vega Baja,10,0.6
+2020-07-04,Vieques,0,0
 2020-07-04,Villalba,15,0.8
 2020-07-04,Yabucoa,7,0.4
 2020-07-04,Yauco,24,1.4
@@ -5735,6 +5908,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-07-05,Utuado,3,0.2
 2020-07-05,Vega Alta,13,0.7
 2020-07-05,Vega Baja,12,0.6
+2020-07-05,Vieques,0,0
 2020-07-05,Villalba,15,0.8
 2020-07-05,Yabucoa,7,0.4
 2020-07-05,Yauco,29,1.5
@@ -5815,6 +5989,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-07-06,Utuado,5,0.2
 2020-07-06,Vega Alta,13,0.6
 2020-07-06,Vega Baja,12,0.6
+2020-07-06,Vieques,0,0
 2020-07-06,Villalba,15,0.7
 2020-07-06,Yabucoa,7,0.3
 2020-07-06,Yauco,30,1.5
@@ -5895,6 +6070,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-07-07,Utuado,5,0.2
 2020-07-07,Vega Alta,13,0.6
 2020-07-07,Vega Baja,13,0.6
+2020-07-07,Vieques,0,0
 2020-07-07,Villalba,15,0.7
 2020-07-07,Yabucoa,7,0.3
 2020-07-07,Yauco,31,1.5
@@ -5975,6 +6151,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-07-08,Utuado,6,0.3
 2020-07-08,Vega Alta,17,0.8
 2020-07-08,Vega Baja,13,0.6
+2020-07-08,Vieques,0,0
 2020-07-08,Villalba,15,0.7
 2020-07-08,Yabucoa,7,0.3
 2020-07-08,Yauco,32,1.5
@@ -6055,6 +6232,7 @@ bulletin_date,municipality,confirmed_cases,confirmed_cases_percent
 2020-07-09,Utuado,7,0.3
 2020-07-09,Vega Alta,17,0.8
 2020-07-09,Vega Baja,17,0.8
+2020-07-09,Vieques,0,0
 2020-07-09,Villalba,15,0.7
 2020-07-09,Yabucoa,7,0.3
 2020-07-09,Yauco,32,1.4
